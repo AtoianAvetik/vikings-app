@@ -1,0 +1,20 @@
+<div class="image-uploader" [style.width]="containerWidth + 'px'" [style.height]="containerHeight + 'px'">
+    <input #inputFile accept="image/*" type="file" (change)="openDialog($event)">
+    <ng-container *ngIf="imageData">
+        <div class="image-uploader_image" [style.background-image]="'url(' +imageData+')'" alt="">
+            <button type="button" class="btn btn-primary btn-fab" (click)="triggerFileInput()">
+                <i class="ft-upload"></i>
+            </button>
+            <button type="button" class="btn btn-secondary btn-fab" (click)="removeImage()">
+                <i class="ft-trash-2"></i>
+            </button>
+        </div>
+    </ng-container>
+    <ng-container *ngIf="!imageData">
+        <div class="image-uploader_empty" (click)="triggerFileInput()">
+            <i class="ft-upload"></i>
+            Upload image
+        </div>
+    </ng-container>
+</div>
+

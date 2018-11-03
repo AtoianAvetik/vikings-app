@@ -1,0 +1,36 @@
+<li
+    [ngClass]="{'open': isOpen, 'active-route': isActiveRoute}"
+    [class]="menuItem.class"
+    [routerLinkActive]="menuItem.submenu.length !== 0 ? '' : '--active'"
+    [routerLinkActiveOptions]="{exact: true}"
+    [ngSwitch]="type">
+
+    <a
+        *ngSwitchCase="'routerLink'"
+        [routerLink]="[menuItem.path]"
+        (click)="menuItem.submenu.length > 0 && onToggleMenu($event)">
+        <i [ngClass]="[menuItem.icon]"></i>
+        <span class="menu-title">{{ menuItem.title }}</span>
+        <span *ngIf="menuItem.badge != '' " [ngClass]="[menuItem.badgeClass]">{{menuItem.badge}}</span>
+    </a>
+    <a
+        *ngSwitchCase="'accordion'"
+        (click)="menuItem.submenu.length > 0 && onToggleMenu($event)">
+        <i [ngClass]="[menuItem.icon]"></i>
+        <span class="menu-title">{{ menuItem.title }}</span>
+        <span *ngIf="menuItem.badge != '' " [ngClass]="[menuItem.badgeClass]">{{menuItem.badge}}</span>
+    </a>
+    <a *ngSwitchCase="'external'"
+       [href]="[menuItem.path]"
+       target="_blank">
+        <i [ngClass]="[menuItem.icon]"></i>
+        <span class="menu-title">{{ menuItem.title }}</span>
+        <span *ngIf="menuItem.badge != '' " [ngClass]="[menuItem.badgeClass]">{{menuItem.badge}}</span>
+    </a>
+    <!-- Next level menu -->
+    <ul class="menu-content" *ngIf="menuItem.submenu.length > 0" [@slide]='isOpen ? "down" : "up"'>
+        <app-navigation-item
+            *ngFor="let menuItem of menuItem.submenu;"
+            [menuItem]="menuItem"></app-navigation-item>
+    </ul>
+</li>

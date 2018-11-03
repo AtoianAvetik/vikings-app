@@ -1,0 +1,26 @@
+<h1 mat-dialog-title>Select image display area</h1>
+<div class="image-cropper">
+    <div class="image-cropper_selector">
+        <image-cropper
+            [imageChangedEvent]="imageChangedEvent"
+            [maintainAspectRatio]="true"
+            [aspectRatio]="aspectRatio"
+            [resizeToWidth]="resizeToWidth"
+            format="jpg"
+            (imageCropped)="imageCropped($event)"
+            (imageLoaded)="imageLoaded()"
+            (loadImageFailed)="imageLoadFailed()"
+            [style.display]="cropperReady ? null : 'none'"
+        ></image-cropper>
+    </div>
+    <div class="image-cropper_preview">
+        <img class="mb-3" [src]="croppedImage"/>
+        <button type="button" class="btn btn-outline-secondary" [mat-dialog-close]>
+            <i class="ft-x"></i> Cancel
+        </button>
+        <button type="button" class="btn btn-primary btn-raised" [mat-dialog-close]="croppedImage">
+            <i class="ft-check"></i> Apply
+        </button>
+    </div>
+</div>
+

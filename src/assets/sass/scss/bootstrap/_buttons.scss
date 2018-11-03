@@ -1,0 +1,54 @@
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    &[class*="btn-"] {
+        margin-bottom: 1rem;
+    }
+
+    i {
+        margin: 0 3px 0;
+    }
+}
+
+.btn-fab {
+    i {
+        line-height: 1.5;
+    }
+}
+
+.btn-group-vertical {
+    .btn {
+        &[class*="btn-"] {
+            margin-bottom: 0;
+        }
+    }
+}
+
+.input-group {
+    .btn {
+        &[class*="btn-"] {
+            margin-bottom: 0;
+            height: 100%;
+        }
+    }
+    margin-bottom: 1rem;
+}
+
+// Custom round buttons
+.btn-round {
+    border-radius: $border-radius-extreme;
+}
+
+.btn:active, .btn.active {
+    background-image: initial;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.btn-group > .btn.active {
+    z-index: 0;
+}

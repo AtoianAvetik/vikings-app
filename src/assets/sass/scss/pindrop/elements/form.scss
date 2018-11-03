@@ -1,0 +1,65 @@
+.form-error-msg {
+    background-color: theme-color("danger");
+    color: #fff;
+    border-radius: 2px;
+    position: absolute;
+    left: 0;
+    padding: 4px 10px;
+    display: inline-block;
+    line-height: 1;
+    font-size: 12px;
+    margin-top: 5px;
+
+    &:after {
+        bottom: 100%;
+        left: 0;
+        border: solid transparent;
+        content: " ";
+        height: 0;
+        width: 0;
+        position: absolute;
+        pointer-events: none;
+        border-color: rgba(0, 0, 0, 0);
+        border-bottom-color: theme-color("danger");
+        border-width: 4px;
+        margin-left: 10px;
+    }
+
+    form.form-bordered .form-group > div & {
+        left: 1.2rem;
+    }
+
+    .input-group & {
+        bottom: -7px;
+    }
+}
+
+.form-group {
+    position: relative;
+
+    .input-group {
+        margin-bottom: 0;
+    }
+
+    .custom-control-label {
+        position: absolute;
+        top: -3px;
+    }
+
+    .input-group-append{
+        z-index: 0;
+    }
+}
+
+form.-submitted {
+    .ng-invalid, .-invalid {
+        border-color: theme-color("danger");
+    }
+}
+
+form.form-bordered .form-group .label-control {
+    padding-top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}

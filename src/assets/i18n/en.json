@@ -1,0 +1,158 @@
+{
+    "sidebar_menu": {
+        "dashboard": "Dashboard",
+        "users": "Users",
+        "create_user": "Create user",
+        "orders": "Orders",
+        "create_order": "Create order"
+    },
+    "headers": {
+        "welcome": "Welcome",
+        "users_table": "Users Smart Table",
+        "orders_overview": "Orders overview",
+        "create_user": "Create user",
+        "create_order": "Create order",
+        "user_form_title": "Please fill fields bellow",
+        "order_details": "Order details",
+        "user_details": "User details"
+    },
+    "buttons": {
+        "create_user": "Create user",
+        "delete_user": "Delete user",
+        "create_order": "Create order",
+        "submit": "Submit",
+        "cancel": "Cancel",
+        "go_back": "Go back",
+        "export_XLS": "Export XLS",
+        "choose_file": "Choose file",
+        "upload": "Upload",
+        "next": "Next",
+        "back": "Back",
+        "save": "Save"
+    },
+    "status": {
+        "layout": "Layout",
+        "waiting_for_customer_approval": "Waiting for customer approval",
+        "waiting_for_makro_approval": "Waiting for Makro approval",
+        "in_production": "Ready for production",
+        "processing": "In production",
+        "sent": "Sent",
+        "canceled": "Canceled"
+    },
+    "roles": {
+        "super_admin": "Super admin",
+        "sales_support": "Sales support"
+    },
+    "fields": {
+        "search": "Search",
+        "username": "Username",
+        "email_address": "Email address",
+        "password": "Password",
+        "role": "Role",
+        "activated": "Activated",
+        "generate": "Generate",
+        "start_date_filter": "Start date filter",
+        "end_date_filter": "End date filter",
+        "choose_date": "Choose a date",
+        "voucher_type": "Voucher type",
+        "delivery_date": "Delivery date",
+        "customer_number": "Enter customer number",
+        "notes": "Notes",
+        "format_voucher": "Who will format the voucher?",
+        "customer": "Customer",
+        "makro": "Makro",
+        "customer_email_address": "Enter customer email address",
+        "username_err": "Please enter a username",
+        "email_address_err": "Please enter a email address",
+        "password_err": "Passwords must be at least 10 characters long",
+        "upload_XLS_label": "Upload XLS file with orders"
+    },
+    "users_table": {
+        "username": "Username",
+        "email_address": "Email Address",
+        "role": "Role",
+        "active": "Active",
+        "inactive": "Inactive",
+        "actions": "Actions",
+        "all": "All",
+        "empty_msg": "No users found"
+    },
+    "orders_table": {
+        "created_at": "Created at",
+        "customer_number": "Customer number",
+        "order_number": "Order number",
+        "customer_name": "Customer name",
+        "created_by": "Created by",
+        "delivery_date": "Delivery date",
+        "status": "Status",
+        "track_and_trace_number": "Track and trace number",
+        "details": "Details",
+        "layout": "Layout",
+        "all": "All",
+        "empty_msg": "No orders found"
+    },
+    "order_details": {
+        "customer_number": "Customer number",
+        "customer_data": "Customer info",
+        "customer_data_desc": "This is the company address, if other delivery address has been given then the vouchers will be delivered at that address.",
+        "voucher_name": "Chosen voucher",
+        "on_name_amount": "Named",
+        "blank_amount": "Blank",
+        "on_location_amount": "On location",
+        "door_to_door_amount": "Home delivery",
+        "location_amount": "Number of locations",
+        "location_distribution": "Location divide",
+        "locations_total": "locations total",
+        "vouchers": "vouchers",
+        "packers": "Additionals",
+        "gift_landal": "Landal",
+        "postcode_loterij": "Postcode loterijbon",
+        "yes": "Yes",
+        "no": "No",
+        "delivery_date": "Delivery date",
+        "notes": "Notes"
+    },
+    "notifications": {
+        "success": "Success!",
+        "error": "Error!",
+        "user_create": {
+            "success": {
+                "text": "User successfully created"
+            },
+            "error": {
+                "text": "User can't be created"
+            }
+        },
+        "user_delete": {
+            "success": {
+                "text": "User successfully deleted"
+            },
+            "error": {
+                "text": "User can’t be deleted "
+            }
+        },
+        "user_change": {
+            "success": {
+                "text": "User successfully changed"
+            },
+            "error": {
+                "text": "User can’t be changed"
+            }
+        },
+        "order_create": {
+            "success": {
+                "text": "Order successfully created"
+            },
+            "error": {
+                "text": "Order can't be created"
+            }
+        }
+    },
+    "texts": {
+        "welcome": "Through the menu at the left you can access the backoffice functionality"
+    },
+    "errors": {
+        "customerNumber": "Entered customer number is not the same as customer number from the uploaded XLS.",
+        "email": "Invalid email address"
+    }
+}

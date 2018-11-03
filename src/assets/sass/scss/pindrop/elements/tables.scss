@@ -1,0 +1,57 @@
+ng2-smart-table {
+    input, select {
+        height: 30px !important;
+        min-width: 100px;
+    }
+
+    .ng2-smart-actions {
+        white-space: nowrap;
+        text-align: right;
+
+        tbody & {
+            text-align: right;
+        }
+
+        a:hover {
+            text-decoration: none;
+        }
+    }
+
+    tbody {
+        .ng2-smart-actions {
+            text-align: right;
+        }
+    }
+
+    thead {
+        .ng2-smart-th, th {
+            padding: 15px 10px !important;
+
+            .ng2-smart-title, a {
+                color: #325980;
+                text-transform: uppercase;
+                letter-spacing: 0px;
+                font-weight: 500;
+
+                &.sort.asc, .sort.desc {
+                    font-weight: 500;
+                    color: #000;
+                }
+            }
+        }
+    }
+
+    .ng2-smart-filters .ng2-smart-th {
+        padding-bottom: 10px;
+    }
+
+    ng2-st-tbody-create-cancel {
+        float: right;
+    }
+
+    .ng2-smart-pagination .page-link-next,
+    .ng2-smart-pagination .page-link-prev{
+        font-size: inherit !important;
+    }
+}
+
