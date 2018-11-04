@@ -1,6 +1,6 @@
 [
     {
-        "id": 322,
+        "id": "322",
         "image": "/assets/img/items/m322.png",
         "type": "standard",
         "material": [
@@ -8,10 +8,11 @@
             "029",
             "029"
         ],
+        "category": "weapons",
         "name": "Алебарда"
     },
     {
-        "id": 408,
+        "id": "408",
         "image": "/assets/img/items/m408.png",
         "type": "standard",
         "material": [
@@ -19,10 +20,11 @@
             "021",
             "030"
         ],
+        "category": "amulets",
         "name": "Амулет Змеи"
     },
     {
-        "id": 280,
+        "id": "280",
         "image": "/assets/img/items/m280.png",
         "type": "standard",
         "material": [
@@ -31,10 +33,11 @@
             "029",
             "029"
         ],
+        "category": "weapons",
         "name": "Боевая Секира"
     },
     {
-        "id": 329,
+        "id": "329",
         "image": "/assets/img/items/m329.png",
         "type": "standard",
         "material": [
@@ -43,10 +46,11 @@
             "031",
             "031"
         ],
+        "category": "weapons",
         "name": "Боевой Кистень"
     },
     {
-        "id": 238,
+        "id": "238",
         "image": "/assets/img/items/m238.png",
         "type": "standard",
         "material": [
@@ -54,20 +58,22 @@
             "027",
             "030"
         ],
+        "category": "weapons",
         "name": "Боевой Топор"
     },
     {
-        "id": 272,
+        "id": "272",
         "image": "/assets/img/items/m272.png",
         "type": "standard",
         "material": [
             "024",
             "023"
         ],
+        "category": "boots",
         "name": "Ботинки Палача"
     },
     {
-        "id": 317,
+        "id": "317",
         "image": "/assets/img/items/m317.png",
         "type": "standard",
         "material": [
@@ -75,10 +81,11 @@
             "025",
             "030"
         ],
+        "category": "boots",
         "name": "Ботинки Покорителя"
     },
     {
-        "id": 380,
+        "id": "380",
         "image": "/assets/img/items/m380.png",
         "type": "standard",
         "material": [
@@ -87,10 +94,11 @@
             "024",
             "031"
         ],
+        "category": "boots",
         "name": "Ботинки Убийцы"
     },
     {
-        "id": 435,
+        "id": "435",
         "image": "/assets/img/items/m435.png",
         "type": "standard",
         "material": [
@@ -98,10 +106,11 @@
             "027",
             "030"
         ],
-        "name": "Браслет Конунга"
+        "name": "Браслет Конунга",
+        "category": "amulets"
     },
     {
-        "id": 432,
+        "id": "432",
         "image": "/assets/img/items/m432.png",
         "type": "standard",
         "material": [
@@ -109,20 +118,22 @@
             "021",
             "021"
         ],
-        "name": "Браслет Победителя"
+        "name": "Браслет Победителя",
+        "category": "amulets"
     },
     {
-        "id": 410,
+        "id": "410",
         "image": "/assets/img/items/m410.png",
         "type": "standard",
         "material": [
             "022",
             "023"
         ],
-        "name": "Бронзовый Браслет"
+        "name": "Бронзовый Браслет",
+        "category": "amulets"
     },
     {
-        "id": 352,
+        "id": "352",
         "image": "/assets/img/items/m352.png",
         "type": "standard",
         "material": [
@@ -131,10 +142,11 @@
             "024",
             "025"
         ],
-        "name": "Бронзовый Панцирь"
+        "name": "Бронзовый Панцирь",
+        "category": "armor"
     },
     {
-        "id": 411,
+        "id": "411",
         "image": "/assets/img/items/m411.png",
         "type": "standard",
         "material": [
@@ -142,10 +154,11 @@
             "021",
             "030"
         ],
-        "name": "Бронзовый Щит"
+        "name": "Бронзовый Щит",
+        "category": "amulets"
     },
     {
-        "id": 292,
+        "id": "292",
         "image": "/assets/img/items/m292.png",
         "type": "standard",
         "material": [
@@ -154,10 +167,11 @@
             "025",
             "027"
         ],
+        "category": "armor",
         "name": "Броня Видара"
     },
     {
-        "id": 298,
+        "id": "298",
         "image": "/assets/img/items/m298.png",
         "type": "standard",
         "material": [
@@ -165,10 +179,11 @@
             "027",
             "029"
         ],
+        "category": "armor",
         "name": "Броня Власти"
     },
     {
-        "id": 361,
+        "id": "361",
         "image": "/assets/img/items/m361.png",
         "type": "standard",
         "material": [
@@ -177,10 +192,11 @@
             "027",
             "030"
         ],
+        "category": "armor",
         "name": "Броня Разрушителя"
     },
     {
-        "id": 364,
+        "id": "364",
         "image": "/assets/img/items/m364.png",
         "type": "standard",
         "material": [
@@ -189,10 +205,11 @@
             "025",
             "030"
         ],
+        "category": "armor",
         "name": "Броня Тирана"
     },
     {
-        "id": 320,
+        "id": "320",
         "image": "/assets/img/items/m320.png",
         "type": "standard",
         "material": [
@@ -200,10 +217,11 @@
             "024",
             "028"
         ],
+        "category": "boots",
         "name": "Вечные Сапоги"
     },
     {
-        "id": 275,
+        "id": "275",
         "image": "/assets/img/items/m275.png",
         "type": "standard",
         "material": [
@@ -211,10 +229,11 @@
             "026",
             "028"
         ],
+        "category": "boots",
         "name": "Волчьи Сапоги"
     },
     {
-        "id": 252,
+        "id": "252",
         "image": "/assets/img/items/m252.png",
         "type": "standard",
         "material": [
@@ -223,10 +242,11 @@
             "024",
             "026"
         ],
-        "name": "Волчья Шкура"
+        "name": "Волчья Шкура",
+        "category": "armor"
     },
     {
-        "id": 354,
+        "id": "354",
         "image": "/assets/img/items/m354.png",
         "type": "standard",
         "material": [
@@ -235,10 +255,11 @@
             "031",
             "025"
         ],
+        "category": "armor",
         "name": "Восточная Броня"
     },
     {
-        "id": 333,
+        "id": "333",
         "image": "/assets/img/items/m333.png",
         "type": "standard",
         "material": [
@@ -247,10 +268,11 @@
             "029",
             "030"
         ],
+        "category": "weapons",
         "name": "Восточный Клинок"
     },
     {
-        "id": 267,
+        "id": "267",
         "image": "/assets/img/items/m267.png",
         "type": "standard",
         "material": [
@@ -259,10 +281,11 @@
             "030",
             "024"
         ],
+        "category": "helmets",
         "name": "Голова Волка"
     },
     {
-        "id": 305,
+        "id": "305",
         "image": "/assets/img/items/m305.png",
         "type": "standard",
         "material": [
@@ -270,10 +293,11 @@
             "027",
             "031"
         ],
+        "category": "helmets",
         "name": "Голова Медведя"
     },
     {
-        "id": 246,
+        "id": "246",
         "image": "/assets/img/items/m246.png",
         "type": "standard",
         "material": [
@@ -281,30 +305,33 @@
             "025",
             "026"
         ],
+        "category": "weapons",
         "name": "Двуручная Секира"
     },
     {
-        "id": 244,
+        "id": "244",
         "image": "/assets/img/items/m244.png",
         "type": "standard",
         "material": [
             "027",
             "031"
         ],
+        "category": "weapons",
         "name": "Двуручный Молот"
     },
     {
-        "id": 393,
+        "id": "393",
         "image": "/assets/img/items/m393.png",
         "type": "standard",
         "material": [
             "020",
             "020"
         ],
-        "name": "Деревянный Идол"
+        "name": "Деревянный Идол",
+        "category": "amulets"
     },
     {
-        "id": 289,
+        "id": "289",
         "image": "/assets/img/items/m289.png",
         "type": "standard",
         "material": [
@@ -312,10 +339,11 @@
             "022",
             "026"
         ],
+        "category": "armor",
         "name": "Доспех Викинга"
     },
     {
-        "id": 356,
+        "id": "356",
         "image": "/assets/img/items/m356.png",
         "type": "standard",
         "material": [
@@ -324,10 +352,11 @@
             "025",
             "026"
         ],
+        "category": "armor",
         "name": "Доспех Воителя"
     },
     {
-        "id": 256,
+        "id": "256",
         "image": "/assets/img/items/m256.png",
         "type": "standard",
         "material": [
@@ -336,10 +365,11 @@
             "025",
             "026"
         ],
+        "category": "armor",
         "name": "Доспех Могущества"
     },
     {
-        "id": 248,
+        "id": "248",
         "image": "/assets/img/items/m248.png",
         "type": "standard",
         "material": [
@@ -347,10 +377,11 @@
             "021",
             "026"
         ],
+        "category": "armor",
         "name": "Доспех Одина"
     },
     {
-        "id": 249,
+        "id": "249",
         "image": "/assets/img/items/m249.png",
         "type": "standard",
         "material": [
@@ -358,10 +389,11 @@
             "024",
             "024"
         ],
+        "category": "armor",
         "name": "Доспех Палача"
     },
     {
-        "id": 295,
+        "id": "295",
         "image": "/assets/img/items/m295.png",
         "type": "standard",
         "material": [
@@ -369,10 +401,11 @@
             "026",
             "027"
         ],
+        "category": "armor",
         "name": "Доспех Покорителя"
     },
     {
-        "id": 353,
+        "id": "353",
         "image": "/assets/img/items/m353.png",
         "type": "standard",
         "material": [
@@ -381,10 +414,11 @@
             "025",
             "026"
         ],
+        "category": "armor",
         "name": "Доспех Покоя"
     },
     {
-        "id": 359,
+        "id": "359",
         "image": "/assets/img/items/m359.png",
         "type": "standard",
         "material": [
@@ -393,10 +427,11 @@
             "031",
             "031"
         ],
+        "category": "armor",
         "name": "Доспех Храбреца"
     },
     {
-        "id": 362,
+        "id": "362",
         "image": "/assets/img/items/m362.png",
         "type": "standard",
         "material": [
@@ -405,10 +440,11 @@
             "028",
             "031"
         ],
+        "category": "armor",
         "name": "Доспех Язычника"
     },
     {
-        "id": 341,
+        "id": "341",
         "image": "/assets/img/items/m341.png",
         "type": "standard",
         "material": [
@@ -417,10 +453,11 @@
             "030",
             "030"
         ],
-        "name": "Древнее Копье"
+        "name": "Древнее Копье",
+        "category": "weapons"
     },
     {
-        "id": 385,
+        "id": "385",
         "image": "/assets/img/items/m385.png",
         "type": "standard",
         "material": [
@@ -429,10 +466,11 @@
             "031",
             "031"
         ],
-        "name": "Древние Поножи"
+        "name": "Древние Поножи",
+        "category": "boots"
     },
     {
-        "id": 365,
+        "id": "365",
         "image": "/assets/img/items/m365.png",
         "type": "standard",
         "material": [
@@ -441,10 +479,11 @@
             "029",
             "029"
         ],
+        "category": "armor",
         "name": "Древний Доспех"
     },
     {
-        "id": 376,
+        "id": "376",
         "image": "/assets/img/items/m376.png",
         "type": "standard",
         "material": [
@@ -453,10 +492,11 @@
             "030",
             "026"
         ],
+        "category": "helmets",
         "name": "Древний Шлем"
     },
     {
-        "id": 433,
+        "id": "433",
         "image": "/assets/img/items/m433.png",
         "type": "standard",
         "material": [
@@ -464,10 +504,11 @@
             "026",
             "026"
         ],
-        "name": "Древо Мира"
+        "name": "Древо Мира",
+        "category": "amulets"
     },
     {
-        "id": 383,
+        "id": "383",
         "image": "/assets/img/items/m383.png",
         "type": "standard",
         "material": [
@@ -476,10 +517,11 @@
             "026",
             "024"
         ],
+        "category": "boots",
         "name": "Заговоренные Сапоги"
     },
     {
-        "id": 363,
+        "id": "363",
         "image": "/assets/img/items/m363.png",
         "type": "standard",
         "material": [
@@ -488,10 +530,11 @@
             "031",
             "031"
         ],
+        "category": "armor",
         "name": "Заговоренный Доспех"
     },
     {
-        "id": 342,
+        "id": "342",
         "image": "/assets/img/items/m342.png",
         "type": "standard",
         "material": [
@@ -500,10 +543,11 @@
             "029",
             "030"
         ],
+        "category": "weapons",
         "name": "Заговоренный Меч"
     },
     {
-        "id": 374,
+        "id": "374",
         "image": "/assets/img/items/m374.png",
         "type": "standard",
         "material": [
@@ -512,20 +556,22 @@
             "026",
             "027"
         ],
+        "category": "helmets",
         "name": "Заговоренный Шлем"
     },
     {
-        "id": 388,
+        "id": "388",
         "image": "/assets/img/items/m388.png",
         "type": "standard",
         "material": [
             "023",
             "029"
         ],
-        "name": "Знак Тора"
+        "name": "Знак Тора",
+        "category": "amulets"
     },
     {
-        "id": 427,
+        "id": "427",
         "image": "/assets/img/items/m427.png",
         "type": "standard",
         "material": [
@@ -534,10 +580,11 @@
             "022",
             "022"
         ],
-        "name": "Золотая Монета"
+        "name": "Золотая Монета",
+        "category": "amulets"
     },
     {
-        "id": 436,
+        "id": "436",
         "image": "/assets/img/items/m436.png",
         "type": "standard",
         "material": [
@@ -545,10 +592,11 @@
             "025",
             "025"
         ],
-        "name": "Золотая Фибула"
+        "name": "Золотая Фибула",
+        "category": "amulets"
     },
     {
-        "id": 431,
+        "id": "431",
         "image": "/assets/img/items/m431.png",
         "type": "standard",
         "material": [
@@ -557,10 +605,11 @@
             "026",
             "028"
         ],
-        "name": "Золотой Вепрь"
+        "name": "Золотой Вепрь",
+        "category": "amulets"
     },
     {
-        "id": 416,
+        "id": "416",
         "image": "/assets/img/items/m416.png",
         "type": "standard",
         "material": [
@@ -568,20 +617,22 @@
             "025",
             "024"
         ],
-        "name": "Золотой Перстень"
+        "name": "Золотой Перстень",
+        "category": "amulets"
     },
     {
-        "id": 247,
+        "id": "247",
         "image": "/assets/img/items/m247.png",
         "type": "standard",
         "material": [
             "027",
             "029"
         ],
-        "name": "Клевец"
+        "name": "Клевец",
+        "category": "weapons"
     },
     {
-        "id": 284,
+        "id": "284",
         "image": "/assets/img/items/m284.png",
         "type": "standard",
         "material": [
@@ -590,10 +641,11 @@
             "028",
             "030"
         ],
+        "category": "weapons",
         "name": "Клинок Покорителя"
     },
     {
-        "id": 345,
+        "id": "345",
         "image": "/assets/img/items/m345.png",
         "type": "standard",
         "material": [
@@ -602,10 +654,11 @@
             "029",
             "029"
         ],
+        "category": "weapons",
         "name": "Клинок Язычника"
     },
     {
-        "id": 285,
+        "id": "285",
         "image": "/assets/img/items/m285.png",
         "type": "standard",
         "material": [
@@ -614,10 +667,11 @@
             "027",
             "029"
         ],
-        "name": "Клык Фенрира"
+        "name": "Клык Фенрира",
+        "category": "weapons"
     },
     {
-        "id": 283,
+        "id": "283",
         "image": "/assets/img/items/m283.png",
         "type": "standard",
         "material": [
@@ -626,20 +680,22 @@
             "027",
             "030"
         ],
-        "name": "Коготь Медведя"
+        "name": "Коготь Медведя",
+        "category": "weapons"
     },
     {
-        "id": 270,
+        "id": "270",
         "image": "/assets/img/items/m270.png",
         "type": "standard",
         "material": [
             "020",
             "026"
         ],
+        "category": "boots",
         "name": "Кожаные Сапоги"
     },
     {
-        "id": 423,
+        "id": "423",
         "image": "/assets/img/items/m423.png",
         "type": "standard",
         "material": [
@@ -647,20 +703,22 @@
             "023",
             "028"
         ],
-        "name": "Кожаный Браслет"
+        "name": "Кожаный Браслет",
+        "category": "amulets"
     },
     {
-        "id": 250,
+        "id": "250",
         "image": "/assets/img/items/m250.png",
         "type": "standard",
         "material": [
             "025",
             "026"
         ],
-        "name": "Кожаный Поддоспешник"
+        "name": "Кожаный Поддоспешник",
+        "category": "armor"
     },
     {
-        "id": 260,
+        "id": "260",
         "image": "/assets/img/items/m260.png",
         "type": "standard",
         "material": [
@@ -668,10 +726,11 @@
             "025",
             "024"
         ],
-        "name": "Кожаный Подшлемник"
+        "name": "Кожаный Подшлемник",
+        "category": "helmets"
     },
     {
-        "id": 406,
+        "id": "406",
         "image": "/assets/img/items/m406.png",
         "type": "standard",
         "material": [
@@ -679,10 +738,11 @@
             "021",
             "031"
         ],
-        "name": "Кольцо Волка"
+        "name": "Кольцо Волка",
+        "category": "amulets"
     },
     {
-        "id": 417,
+        "id": "417",
         "image": "/assets/img/items/m417.png",
         "type": "standard",
         "material": [
@@ -690,10 +750,11 @@
             "025",
             "024"
         ],
-        "name": "Кольцо-Змея"
+        "name": "Кольцо-Змея",
+        "category": "amulets"
     },
     {
-        "id": 293,
+        "id": "293",
         "image": "/assets/img/items/m293.png",
         "type": "standard",
         "material": [
@@ -702,10 +763,11 @@
             "029",
             "031"
         ],
+        "category": "armor",
         "name": "Кольчуга Берсерка"
     },
     {
-        "id": 290,
+        "id": "290",
         "image": "/assets/img/items/m290.png",
         "type": "standard",
         "material": [
@@ -714,10 +776,11 @@
             "026",
             "028"
         ],
+        "category": "armor",
         "name": "Кольчуга Морехода"
     },
     {
-        "id": 351,
+        "id": "351",
         "image": "/assets/img/items/m351.png",
         "type": "standard",
         "material": [
@@ -726,10 +789,11 @@
             "029",
             "026"
         ],
+        "category": "armor",
         "name": "Кольчуга Странника"
     },
     {
-        "id": 255,
+        "id": "255",
         "image": "/assets/img/items/m255.png",
         "type": "standard",
         "material": [
@@ -737,10 +801,11 @@
             "024",
             "026"
         ],
+        "category": "armor",
         "name": "Кольчуга Тора"
     },
     {
-        "id": 360,
+        "id": "360",
         "image": "/assets/img/items/m360.png",
         "type": "standard",
         "material": [
@@ -749,10 +814,11 @@
             "028",
             "025"
         ],
+        "category": "armor",
         "name": "Кольчуга Убийцы"
     },
     {
-        "id": 357,
+        "id": "357",
         "image": "/assets/img/items/m357.png",
         "type": "standard",
         "material": [
@@ -760,10 +826,11 @@
             "024",
             "024"
         ],
+        "category": "armor",
         "name": "Кольчуга Хирдмана"
     },
     {
-        "id": 287,
+        "id": "287",
         "image": "/assets/img/items/m287.png",
         "type": "standard",
         "material": [
@@ -771,20 +838,22 @@
             "027",
             "027"
         ],
-        "name": "Копье Власти"
+        "name": "Копье Власти",
+        "category": "weapons"
     },
     {
-        "id": 392,
+        "id": "392",
         "image": "/assets/img/items/m392.png",
         "type": "standard",
         "material": [
             "021",
             "024"
         ],
+        "category": "amulets",
         "name": "Костяной Амулет"
     },
     {
-        "id": 299,
+        "id": "299",
         "image": "/assets/img/items/m299.png",
         "type": "standard",
         "material": [
@@ -792,10 +861,11 @@
             "024",
             "026"
         ],
+        "category": "armor",
         "name": "Ледяная Броня"
     },
     {
-        "id": 288,
+        "id": "288",
         "image": "/assets/img/items/m288.png",
         "type": "standard",
         "material": [
@@ -804,10 +874,11 @@
             "027",
             "029"
         ],
-        "name": "Ледяное Копье"
+        "name": "Ледяное Копье",
+        "category": "weapons"
     },
     {
-        "id": 310,
+        "id": "310",
         "image": "/assets/img/items/m310.png",
         "type": "standard",
         "material": [
@@ -816,10 +887,11 @@
             "027",
             "031"
         ],
+        "category": "helmets",
         "name": "Ледяной Шлем"
     },
     {
-        "id": 321,
+        "id": "321",
         "image": "/assets/img/items/m321.png",
         "type": "standard",
         "material": [
@@ -828,10 +900,11 @@
             "026",
             "031"
         ],
+        "category": "boots",
         "name": "Ледяные Сапоги"
     },
     {
-        "id": 337,
+        "id": "337",
         "image": "/assets/img/items/m337.png",
         "type": "standard",
         "material": [
@@ -839,10 +912,11 @@
             "028",
             "030"
         ],
+        "category": "weapons",
         "name": "Лук Локи"
     },
     {
-        "id": 371,
+        "id": "371",
         "image": "/assets/img/items/m371.png",
         "type": "standard",
         "material": [
@@ -851,10 +925,11 @@
             "028",
             "028"
         ],
+        "category": "helmets",
         "name": "Маска Локи"
     },
     {
-        "id": 307,
+        "id": "307",
         "image": "/assets/img/items/m307.png",
         "type": "standard",
         "material": [
@@ -862,30 +937,33 @@
             "027",
             "027"
         ],
+        "category": "helmets",
         "name": "Маска Фенрира"
     },
     {
-        "id": 390,
+        "id": "390",
         "image": "/assets/img/items/m390.png",
         "type": "standard",
         "material": [
             "027",
             "028"
         ],
-        "name": "Медвежий Оскал"
+        "name": "Медвежий Оскал",
+        "category": "amulets"
     },
     {
-        "id": 316,
+        "id": "316",
         "image": "/assets/img/items/m316.png",
         "type": "standard",
         "material": [
             "023",
             "025"
         ],
+        "category": "boots",
         "name": "Медвежьи Сапоги"
     },
     {
-        "id": 294,
+        "id": "294",
         "image": "/assets/img/items/m294.png",
         "type": "standard",
         "material": [
@@ -893,10 +971,11 @@
             "028",
             "029"
         ],
-        "name": "Медвежья Шкура"
+        "name": "Медвежья Шкура",
+        "category": "armor"
     },
     {
-        "id": 324,
+        "id": "324",
         "image": "/assets/img/items/m324.png",
         "type": "standard",
         "material": [
@@ -904,10 +983,11 @@
             "031",
             "024"
         ],
-        "name": "Металлический Дротик"
+        "name": "Металлический Дротик",
+        "category": "weapons"
     },
     {
-        "id": 243,
+        "id": "243",
         "image": "/assets/img/items/m243.png",
         "type": "standard",
         "material": [
@@ -916,20 +996,22 @@
             "028",
             "030"
         ],
-        "name": "Метательное Копье"
+        "name": "Метательное Копье",
+        "category": "weapons"
     },
     {
-        "id": 281,
+        "id": "281",
         "image": "/assets/img/items/m281.png",
         "type": "standard",
         "material": [
             "024",
             "029"
         ],
+        "category": "weapons",
         "name": "Меч Видара"
     },
     {
-        "id": 336,
+        "id": "336",
         "image": "/assets/img/items/m336.png",
         "type": "standard",
         "material": [
@@ -938,10 +1020,11 @@
             "030",
             "030"
         ],
+        "category": "weapons",
         "name": "Меч Воителя"
     },
     {
-        "id": 343,
+        "id": "343",
         "image": "/assets/img/items/m343.png",
         "type": "standard",
         "material": [
@@ -950,10 +1033,11 @@
             "028",
             "031"
         ],
+        "category": "weapons",
         "name": "Меч Тирана"
     },
     {
-        "id": 350,
+        "id": "350",
         "image": "/assets/img/items/m350.png",
         "type": "standard",
         "material": [
@@ -962,20 +1046,22 @@
             "027",
             "030"
         ],
+        "category": "weapons",
         "name": "Меч Ярла"
     },
     {
-        "id": 404,
+        "id": "404",
         "image": "/assets/img/items/m404.png",
         "type": "standard",
         "material": [
             "022",
             "022"
         ],
+        "category": "amulets",
         "name": "Меч-Талисман"
     },
     {
-        "id": 334,
+        "id": "334",
         "image": "/assets/img/items/m334.png",
         "type": "standard",
         "material": [
@@ -983,10 +1069,11 @@
             "030",
             "031"
         ],
+        "category": "weapons",
         "name": "Молот Безумца"
     },
     {
-        "id": 340,
+        "id": "340",
         "image": "/assets/img/items/m340.png",
         "type": "standard",
         "material": [
@@ -995,10 +1082,11 @@
             "029",
             "029"
         ],
+        "category": "weapons",
         "name": "Молот Разрушителя"
     },
     {
-        "id": 348,
+        "id": "348",
         "image": "/assets/img/items/m348.png",
         "type": "standard",
         "material": [
@@ -1007,10 +1095,11 @@
             "025",
             "030"
         ],
+        "category": "weapons",
         "name": "Молот Тора"
     },
     {
-        "id": 332,
+        "id": "332",
         "image": "/assets/img/items/m332.png",
         "type": "standard",
         "material": [
@@ -1018,10 +1107,11 @@
             "027",
             "027"
         ],
-        "name": "Моргенштерн"
+        "name": "Моргенштерн",
+        "category": "weapons"
     },
     {
-        "id": 355,
+        "id": "355",
         "image": "/assets/img/items/m355.png",
         "type": "standard",
         "material": [
@@ -1030,10 +1120,11 @@
             "030",
             "026"
         ],
-        "name": "Накидка Вождя"
+        "name": "Накидка Вождя",
+        "category": "armor"
     },
     {
-        "id": 358,
+        "id": "358",
         "image": "/assets/img/items/m358.png",
         "type": "standard",
         "material": [
@@ -1042,10 +1133,11 @@
             "028",
             "026"
         ],
-        "name": "Накидка Локи"
+        "name": "Накидка Локи",
+        "category": "armor"
     },
     {
-        "id": 434,
+        "id": "434",
         "image": "/assets/img/items/m434.png",
         "type": "standard",
         "material": [
@@ -1053,10 +1145,11 @@
             "026",
             "030"
         ],
-        "name": "Наручи Ярла"
+        "name": "Наручи Ярла",
+        "category": "amulets"
     },
     {
-        "id": 429,
+        "id": "429",
         "image": "/assets/img/items/m429.png",
         "type": "standard",
         "material": [
@@ -1064,20 +1157,22 @@
             "022",
             "028"
         ],
-        "name": "Ожерелье Фрейи"
+        "name": "Ожерелье Фрейи",
+        "category": "amulets"
     },
     {
-        "id": 240,
+        "id": "240",
         "image": "/assets/img/items/m240.png",
         "type": "standard",
         "material": [
             "030",
             "029"
         ],
-        "name": "Палаш"
+        "name": "Палаш",
+        "category": "weapons"
     },
     {
-        "id": 349,
+        "id": "349",
         "image": "/assets/img/items/m349.png",
         "type": "standard",
         "material": [
@@ -1086,10 +1181,11 @@
             "031",
             "031"
         ],
-        "name": "Палаш Конунга"
+        "name": "Палаш Конунга",
+        "category": "weapons"
     },
     {
-        "id": 331,
+        "id": "331",
         "image": "/assets/img/items/m331.png",
         "type": "standard",
         "material": [
@@ -1097,30 +1193,33 @@
             "031",
             "026"
         ],
-        "name": "Парные Серпы"
+        "name": "Парные Серпы",
+        "category": "weapons"
     },
     {
-        "id": 391,
+        "id": "391",
         "image": "/assets/img/items/m391.png",
         "type": "standard",
         "material": [
             "022",
             "026"
         ],
-        "name": "Перо Ворона"
+        "name": "Перо Ворона",
+        "category": "amulets"
     },
     {
-        "id": 407,
+        "id": "407",
         "image": "/assets/img/items/m407.png",
         "type": "standard",
         "material": [
             "020",
             "023"
         ],
-        "name": "Перстень Дракона"
+        "name": "Перстень Дракона",
+        "category": "amulets"
     },
     {
-        "id": 319,
+        "id": "319",
         "image": "/assets/img/items/m319.png",
         "type": "standard",
         "material": [
@@ -1128,10 +1227,11 @@
             "026",
             "027"
         ],
+        "category": "boots",
         "name": "Пламенные Сапоги"
     },
     {
-        "id": 297,
+        "id": "297",
         "image": "/assets/img/items/m297.png",
         "type": "standard",
         "material": [
@@ -1140,10 +1240,11 @@
             "028",
             "029"
         ],
+        "category": "armor",
         "name": "Пламенный Доспех"
     },
     {
-        "id": 286,
+        "id": "286",
         "image": "/assets/img/items/m286.png",
         "type": "standard",
         "material": [
@@ -1151,10 +1252,11 @@
             "028",
             "030"
         ],
+        "category": "weapons",
         "name": "Пламенный Молот"
     },
     {
-        "id": 308,
+        "id": "308",
         "image": "/assets/img/items/m308.png",
         "type": "standard",
         "material": [
@@ -1163,10 +1265,11 @@
             "027",
             "029"
         ],
+        "category": "helmets",
         "name": "Пламенный Шлем"
     },
     {
-        "id": 367,
+        "id": "367",
         "image": "/assets/img/items/m367.png",
         "type": "standard",
         "material": [
@@ -1175,10 +1278,11 @@
             "030",
             "030"
         ],
-        "name": "Плащ Безумца"
+        "name": "Плащ Безумца",
+        "category": "armor"
     },
     {
-        "id": 251,
+        "id": "251",
         "image": "/assets/img/items/m251.png",
         "type": "standard",
         "material": [
@@ -1186,10 +1290,11 @@
             "028",
             "026"
         ],
-        "name": "Плащ Конунга"
+        "name": "Плащ Конунга",
+        "category": "armor"
     },
     {
-        "id": 369,
+        "id": "369",
         "image": "/assets/img/items/m369.png",
         "type": "standard",
         "material": [
@@ -1198,10 +1303,11 @@
             "026",
             "024"
         ],
-        "name": "Плащ Ярла"
+        "name": "Плащ Ярла",
+        "category": "armor"
     },
     {
-        "id": 422,
+        "id": "422",
         "image": "/assets/img/items/m422.png",
         "type": "standard",
         "material": [
@@ -1210,20 +1316,22 @@
             "022",
             "022"
         ],
-        "name": "Позолоченные Наручи"
+        "name": "Позолоченные Наручи",
+        "category": "amulets"
     },
     {
-        "id": 271,
+        "id": "271",
         "image": "/assets/img/items/m271.png",
         "type": "standard",
         "material": [
             "022",
             "024"
         ],
+        "category": "boots",
         "name": "Позолоченные Сапоги"
     },
     {
-        "id": 257,
+        "id": "257",
         "image": "/assets/img/items/m257.png",
         "type": "standard",
         "material": [
@@ -1231,10 +1339,11 @@
             "025",
             "026"
         ],
-        "name": "Позолоченный Панцирь"
+        "name": "Позолоченный Панцирь",
+        "category": "armor"
     },
     {
-        "id": 263,
+        "id": "263",
         "image": "/assets/img/items/m263.png",
         "type": "standard",
         "material": [
@@ -1242,10 +1351,11 @@
             "025",
             "026"
         ],
+        "category": "helmets",
         "name": "Позолоченный Шлем"
     },
     {
-        "id": 346,
+        "id": "346",
         "image": "/assets/img/items/m346.png",
         "type": "standard",
         "material": [
@@ -1254,10 +1364,11 @@
             "031",
             "031"
         ],
+        "category": "weapons",
         "name": "Полуторный Меч"
     },
     {
-        "id": 384,
+        "id": "384",
         "image": "/assets/img/items/m384.png",
         "type": "standard",
         "material": [
@@ -1266,10 +1377,11 @@
             "030",
             "030"
         ],
-        "name": "Поножи Тирана"
+        "name": "Поножи Тирана",
+        "category": "boots"
     },
     {
-        "id": 318,
+        "id": "318",
         "image": "/assets/img/items/m318.png",
         "type": "standard",
         "material": [
@@ -1277,30 +1389,33 @@
             "028",
             "029"
         ],
-        "name": "Поступь Фенрира"
+        "name": "Поступь Фенрира",
+        "category": "boots"
     },
     {
-        "id": 409,
+        "id": "409",
         "image": "/assets/img/items/m409.png",
         "type": "standard",
         "material": [
             "028",
             "026"
         ],
-        "name": "Походные Руны"
+        "name": "Походные Руны",
+        "category": "amulets"
     },
     {
-        "id": 313,
+        "id": "313",
         "image": "/assets/img/items/m313.png",
         "type": "standard",
         "material": [
             "025",
             "029"
         ],
+        "category": "boots",
         "name": "Походные Сапоги"
     },
     {
-        "id": 291,
+        "id": "291",
         "image": "/assets/img/items/m291.png",
         "type": "standard",
         "material": [
@@ -1308,10 +1423,11 @@
             "029",
             "029"
         ],
+        "category": "armor",
         "name": "Походный Доспех"
     },
     {
-        "id": 302,
+        "id": "302",
         "image": "/assets/img/items/m302.png",
         "type": "standard",
         "material": [
@@ -1320,10 +1436,11 @@
             "027",
             "029"
         ],
+        "category": "helmets",
         "name": "Походный Шлем"
     },
     {
-        "id": 241,
+        "id": "241",
         "image": "/assets/img/items/m241.png",
         "type": "standard",
         "material": [
@@ -1331,10 +1448,11 @@
             "024",
             "026"
         ],
+        "category": "weapons",
         "name": "Простой Топор"
     },
     {
-        "id": 426,
+        "id": "426",
         "image": "/assets/img/items/m426.png",
         "type": "standard",
         "material": [
@@ -1342,10 +1460,11 @@
             "021",
             "023"
         ],
+        "category": "amulets",
         "name": "Резной Амулет"
     },
     {
-        "id": 425,
+        "id": "425",
         "image": "/assets/img/items/m425.png",
         "type": "standard",
         "material": [
@@ -1354,20 +1473,22 @@
             "024",
             "030"
         ],
-        "name": "Рог Хеймдалля"
+        "name": "Рог Хеймдалля",
+        "category": "amulets"
     },
     {
-        "id": 401,
+        "id": "401",
         "image": "/assets/img/items/m401.png",
         "type": "standard",
         "material": [
             "023",
             "023"
         ],
-        "name": "Руна Альгиз"
+        "name": "Руна Альгиз",
+        "category": "amulets"
     },
     {
-        "id": 398,
+        "id": "398",
         "image": "/assets/img/items/m398.png",
         "type": "standard",
         "material": [
@@ -1375,10 +1496,11 @@
             "029",
             "025"
         ],
-        "name": "Руна Ансуз"
+        "name": "Руна Ансуз",
+        "category": "amulets"
     },
     {
-        "id": 395,
+        "id": "395",
         "image": "/assets/img/items/m395.png",
         "type": "standard",
         "material": [
@@ -1386,20 +1508,22 @@
             "021",
             "030"
         ],
-        "name": "Руна Дагаз"
+        "name": "Руна Дагаз",
+        "category": "amulets"
     },
     {
-        "id": 396,
+        "id": "396",
         "image": "/assets/img/items/m396.png",
         "type": "standard",
         "material": [
             "027",
             "026"
         ],
-        "name": "Руна Кеназ"
+        "name": "Руна Кеназ",
+        "category": "amulets"
     },
     {
-        "id": 403,
+        "id": "403",
         "image": "/assets/img/items/m403.png",
         "type": "standard",
         "material": [
@@ -1407,10 +1531,11 @@
             "020",
             "029"
         ],
-        "name": "Руна Одал"
+        "name": "Руна Одал",
+        "category": "amulets"
     },
     {
-        "id": 402,
+        "id": "402",
         "image": "/assets/img/items/m402.png",
         "type": "standard",
         "material": [
@@ -1418,10 +1543,11 @@
             "023",
             "023"
         ],
-        "name": "Руна Райдо"
+        "name": "Руна Райдо",
+        "category": "amulets"
     },
     {
-        "id": 400,
+        "id": "400",
         "image": "/assets/img/items/m400.png",
         "type": "standard",
         "material": [
@@ -1429,20 +1555,22 @@
             "020",
             "022"
         ],
-        "name": "Руна Совула"
+        "name": "Руна Совула",
+        "category": "amulets"
     },
     {
-        "id": 399,
+        "id": "399",
         "image": "/assets/img/items/m399.png",
         "type": "standard",
         "material": [
             "020",
             "022"
         ],
-        "name": "Руна Тейваз"
+        "name": "Руна Тейваз",
+        "category": "amulets"
     },
     {
-        "id": 397,
+        "id": "397",
         "image": "/assets/img/items/m397.png",
         "type": "standard",
         "material": [
@@ -1450,60 +1578,66 @@
             "021",
             "022"
         ],
-        "name": "Руна Эваз"
+        "name": "Руна Эваз",
+        "category": "amulets"
     },
     {
-        "id": 405,
+        "id": "405",
         "image": "/assets/img/items/m405.png",
         "type": "standard",
         "material": [
             "026",
             "026"
         ],
-        "name": "Рунический Браслет"
+        "name": "Рунический Браслет",
+        "category": "amulets"
     },
     {
-        "id": 394,
+        "id": "394",
         "image": "/assets/img/items/m394.png",
         "type": "standard",
         "material": [
             "027",
             "025"
         ],
-        "name": "Рунический Круг"
+        "name": "Рунический Круг",
+        "category": "amulets"
     },
     {
-        "id": 315,
+        "id": "315",
         "image": "/assets/img/items/m315.png",
         "type": "standard",
         "material": [
             "024",
             "028"
         ],
+        "category": "boots",
         "name": "Сапоги Берсерка"
     },
     {
-        "id": 314,
+        "id": "314",
         "image": "/assets/img/items/m314.png",
         "type": "standard",
         "material": [
             "024",
             "025"
         ],
+        "category": "boots",
         "name": "Сапоги Видара"
     },
     {
-        "id": 311,
+        "id": "311",
         "image": "/assets/img/items/m311.png",
         "type": "standard",
         "material": [
             "024",
             "026"
         ],
+        "category": "boots",
         "name": "Сапоги Викинга"
     },
     {
-        "id": 379,
+        "id": "379",
         "image": "/assets/img/items/m379.png",
         "type": "standard",
         "material": [
@@ -1512,40 +1646,44 @@
             "026",
             "027"
         ],
+        "category": "boots",
         "name": "Сапоги Воителя"
     },
     {
-        "id": 274,
+        "id": "274",
         "image": "/assets/img/items/m274.png",
         "type": "standard",
         "material": [
             "022",
             "027"
         ],
+        "category": "boots",
         "name": "Сапоги Конунга"
     },
     {
-        "id": 276,
+        "id": "276",
         "image": "/assets/img/items/m276.png",
         "type": "standard",
         "material": [
             "021",
             "026"
         ],
+        "category": "boots",
         "name": "Сапоги Лидера"
     },
     {
-        "id": 312,
+        "id": "312",
         "image": "/assets/img/items/m312.png",
         "type": "standard",
         "material": [
             "025",
             "025"
         ],
+        "category": "boots",
         "name": "Сапоги Морехода"
     },
     {
-        "id": 268,
+        "id": "268",
         "image": "/assets/img/items/m268.png",
         "type": "standard",
         "material": [
@@ -1553,10 +1691,11 @@
             "026",
             "021"
         ],
+        "category": "boots",
         "name": "Сапоги Одина"
     },
     {
-        "id": 381,
+        "id": "381",
         "image": "/assets/img/items/m381.png",
         "type": "standard",
         "material": [
@@ -1565,20 +1704,22 @@
             "025",
             "026"
         ],
+        "category": "boots",
         "name": "Сапоги Разрушителя"
     },
     {
-        "id": 277,
+        "id": "277",
         "image": "/assets/img/items/m277.png",
         "type": "standard",
         "material": [
             "024",
             "024"
         ],
+        "category": "boots",
         "name": "Сапоги Тора"
     },
     {
-        "id": 382,
+        "id": "382",
         "image": "/assets/img/items/m382.png",
         "type": "standard",
         "material": [
@@ -1587,10 +1728,11 @@
             "026",
             "029"
         ],
+        "category": "boots",
         "name": "Сапоги Язычника"
     },
     {
-        "id": 387,
+        "id": "387",
         "image": "/assets/img/items/m387.png",
         "type": "standard",
         "material": [
@@ -1599,10 +1741,11 @@
             "027",
             "027"
         ],
+        "category": "boots",
         "name": "Сапоги Ярла"
     },
     {
-        "id": 344,
+        "id": "344",
         "image": "/assets/img/items/m344.png",
         "type": "standard",
         "material": [
@@ -1611,10 +1754,11 @@
             "030",
             "030"
         ],
+        "category": "weapons",
         "name": "Секира Безумца"
     },
     {
-        "id": 278,
+        "id": "278",
         "image": "/assets/img/items/m278.png",
         "type": "standard",
         "material": [
@@ -1622,10 +1766,11 @@
             "027",
             "028"
         ],
+        "category": "weapons",
         "name": "Секира Викинга"
     },
     {
-        "id": 368,
+        "id": "368",
         "image": "/assets/img/items/m368.png",
         "type": "standard",
         "material": [
@@ -1634,10 +1779,11 @@
             "031",
             "031"
         ],
+        "category": "armor",
         "name": "Серебряная Кольчуга"
     },
     {
-        "id": 437,
+        "id": "437",
         "image": "/assets/img/items/m437.png",
         "type": "standard",
         "material": [
@@ -1645,10 +1791,11 @@
             "031",
             "031"
         ],
-        "name": "Серебряная Цепь"
+        "name": "Серебряная Цепь",
+        "category": "amulets"
     },
     {
-        "id": 421,
+        "id": "421",
         "image": "/assets/img/items/m421.png",
         "type": "standard",
         "material": [
@@ -1656,10 +1803,11 @@
             "022",
             "022"
         ],
-        "name": "Серебряное Кольцо"
+        "name": "Серебряное Кольцо",
+        "category": "amulets"
     },
     {
-        "id": 424,
+        "id": "424",
         "image": "/assets/img/items/m424.png",
         "type": "standard",
         "material": [
@@ -1667,10 +1815,11 @@
             "021",
             "022"
         ],
-        "name": "Серебряные Наручи"
+        "name": "Серебряные Наручи",
+        "category": "amulets"
     },
     {
-        "id": 386,
+        "id": "386",
         "image": "/assets/img/items/m386.png",
         "type": "standard",
         "material": [
@@ -1679,10 +1828,11 @@
             "028",
             "028"
         ],
-        "name": "Серебряные Поножи"
+        "name": "Серебряные Поножи",
+        "category": "boots"
     },
     {
-        "id": 347,
+        "id": "347",
         "image": "/assets/img/items/m347.png",
         "type": "standard",
         "material": [
@@ -1691,10 +1841,11 @@
             "025",
             "028"
         ],
+        "category": "weapons",
         "name": "Серебряный Лук"
     },
     {
-        "id": 377,
+        "id": "377",
         "image": "/assets/img/items/m377.png",
         "type": "standard",
         "material": [
@@ -1703,30 +1854,33 @@
             "028",
             "025"
         ],
+        "category": "helmets",
         "name": "Серебряный Шлем"
     },
     {
-        "id": 389,
+        "id": "389",
         "image": "/assets/img/items/m389.png",
         "type": "standard",
         "material": [
             "028",
             "029"
         ],
-        "name": "Символ Волка"
+        "name": "Символ Волка",
+        "category": "amulets"
     },
     {
-        "id": 242,
+        "id": "242",
         "image": "/assets/img/items/m242.png",
         "type": "standard",
         "material": [
             "027",
             "023"
         ],
-        "name": "Скрамасакс"
+        "name": "Скрамасакс",
+        "category": "weapons"
     },
     {
-        "id": 330,
+        "id": "330",
         "image": "/assets/img/items/m330.png",
         "type": "standard",
         "material": [
@@ -1735,10 +1889,11 @@
             "030",
             "031"
         ],
-        "name": "Стальной Серп"
+        "name": "Стальной Серп",
+        "category": "weapons"
     },
     {
-        "id": 328,
+        "id": "328",
         "image": "/assets/img/items/m328.png",
         "type": "standard",
         "material": [
@@ -1746,20 +1901,22 @@
             "029",
             "030"
         ],
-        "name": "Стальной Цеп"
+        "name": "Стальной Цеп",
+        "category": "weapons"
     },
     {
-        "id": 239,
+        "id": "239",
         "image": "/assets/img/items/m239.png",
         "type": "standard",
         "material": [
             "028",
             "030"
         ],
+        "category": "weapons",
         "name": "Старинный Клинок"
     },
     {
-        "id": 412,
+        "id": "412",
         "image": "/assets/img/items/m412.png",
         "type": "standard",
         "material": [
@@ -1768,10 +1925,11 @@
             "020",
             "020"
         ],
-        "name": "Статуэтка Волка"
+        "name": "Статуэтка Волка",
+        "category": "amulets"
     },
     {
-        "id": 415,
+        "id": "415",
         "image": "/assets/img/items/m415.png",
         "type": "standard",
         "material": [
@@ -1779,10 +1937,11 @@
             "024",
             "026"
         ],
-        "name": "Статуэтка Ворона"
+        "name": "Статуэтка Ворона",
+        "category": "amulets"
     },
     {
-        "id": 414,
+        "id": "414",
         "image": "/assets/img/items/m414.png",
         "type": "standard",
         "material": [
@@ -1790,10 +1949,11 @@
             "022",
             "022"
         ],
-        "name": "Статуэтка Медведя"
+        "name": "Статуэтка Медведя",
+        "category": "amulets"
     },
     {
-        "id": 418,
+        "id": "418",
         "image": "/assets/img/items/m418.png",
         "type": "standard",
         "material": [
@@ -1801,10 +1961,11 @@
             "020",
             "020"
         ],
-        "name": "Статуэтка Одина"
+        "name": "Статуэтка Одина",
+        "category": "amulets"
     },
     {
-        "id": 430,
+        "id": "430",
         "image": "/assets/img/items/m430.png",
         "type": "standard",
         "material": [
@@ -1813,10 +1974,11 @@
             "022",
             "023"
         ],
-        "name": "Статуэтка Сокола"
+        "name": "Статуэтка Сокола",
+        "category": "amulets"
     },
     {
-        "id": 419,
+        "id": "419",
         "image": "/assets/img/items/m419.png",
         "type": "standard",
         "material": [
@@ -1825,10 +1987,11 @@
             "022",
             "022"
         ],
-        "name": "Статуэтка Тора"
+        "name": "Статуэтка Тора",
+        "category": "amulets"
     },
     {
-        "id": 420,
+        "id": "420",
         "image": "/assets/img/items/m420.png",
         "type": "standard",
         "material": [
@@ -1837,10 +2000,11 @@
             "022",
             "026"
         ],
-        "name": "Статуэтка Тюра"
+        "name": "Статуэтка Тюра",
+        "category": "amulets"
     },
     {
-        "id": 413,
+        "id": "413",
         "image": "/assets/img/items/m413.png",
         "type": "standard",
         "material": [
@@ -1848,10 +2012,11 @@
             "022",
             "023"
         ],
-        "name": "Статуэтка-Драккар"
+        "name": "Статуэтка-Драккар",
+        "category": "amulets"
     },
     {
-        "id": 262,
+        "id": "262",
         "image": "/assets/img/items/m262.png",
         "type": "standard",
         "material": [
@@ -1859,10 +2024,11 @@
             "031",
             "029"
         ],
+        "category": "helmets",
         "name": "Столетний Шлем"
     },
     {
-        "id": 254,
+        "id": "254",
         "image": "/assets/img/items/m254.png",
         "type": "standard",
         "material": [
@@ -1871,10 +2037,11 @@
             "027",
             "031"
         ],
+        "category": "armor",
         "name": "Столетняя Кольчуга"
     },
     {
-        "id": 428,
+        "id": "428",
         "image": "/assets/img/items/m428.png",
         "type": "standard",
         "material": [
@@ -1882,20 +2049,22 @@
             "020",
             "021"
         ],
-        "name": "Талисман Фенрира"
+        "name": "Талисман Фенрира",
+        "category": "amulets"
     },
     {
-        "id": 245,
+        "id": "245",
         "image": "/assets/img/items/m245.png",
         "type": "standard",
         "material": [
             "028",
             "025"
         ],
+        "category": "weapons",
         "name": "Тисовый Лук"
     },
     {
-        "id": 282,
+        "id": "282",
         "image": "/assets/img/items/m282.png",
         "type": "standard",
         "material": [
@@ -1903,20 +2072,22 @@
             "029",
             "030"
         ],
+        "category": "weapons",
         "name": "Топор Берсерка"
     },
     {
-        "id": 279,
+        "id": "279",
         "image": "/assets/img/items/m279.png",
         "type": "standard",
         "material": [
             "027",
             "030"
         ],
+        "category": "weapons",
         "name": "Топор Морехода"
     },
     {
-        "id": 339,
+        "id": "339",
         "image": "/assets/img/items/m339.png",
         "type": "standard",
         "material": [
@@ -1924,10 +2095,11 @@
             "025",
             "025"
         ],
+        "category": "weapons",
         "name": "Топор Храбреца"
     },
     {
-        "id": 326,
+        "id": "326",
         "image": "/assets/img/items/m326.png",
         "type": "standard",
         "material": [
@@ -1936,10 +2108,11 @@
             "030",
             "025"
         ],
-        "name": "Тяжелая Пика"
+        "name": "Тяжелая Пика",
+        "category": "weapons"
     },
     {
-        "id": 325,
+        "id": "325",
         "image": "/assets/img/items/m325.png",
         "type": "standard",
         "material": [
@@ -1948,20 +2121,22 @@
             "023",
             "023"
         ],
+        "category": "weapons",
         "name": "Тяжелая Секира"
     },
     {
-        "id": 273,
+        "id": "273",
         "image": "/assets/img/items/m273.png",
         "type": "standard",
         "material": [
             "021",
             "027"
         ],
+        "category": "boots",
         "name": "Укрепленные Ботинки"
     },
     {
-        "id": 366,
+        "id": "366",
         "image": "/assets/img/items/m366.png",
         "type": "standard",
         "material": [
@@ -1970,10 +2145,11 @@
             "027",
             "027"
         ],
+        "category": "armor",
         "name": "Усиленная Кольчуга"
     },
     {
-        "id": 335,
+        "id": "335",
         "image": "/assets/img/items/m335.png",
         "type": "standard",
         "material": [
@@ -1982,40 +2158,44 @@
             "028",
             "030"
         ],
+        "category": "weapons",
         "name": "Усиленный Лук"
     },
     {
-        "id": 253,
+        "id": "253",
         "image": "/assets/img/items/m253.png",
         "type": "standard",
         "material": [
             "024",
             "027"
         ],
+        "category": "armor",
         "name": "Церемониальная Кольчуга"
     },
     {
-        "id": 269,
+        "id": "269",
         "image": "/assets/img/items/m269.png",
         "type": "standard",
         "material": [
             "023",
             "026"
         ],
+        "category": "boots",
         "name": "Церемониальные Сапоги"
     },
     {
-        "id": 259,
+        "id": "259",
         "image": "/assets/img/items/m259.png",
         "type": "standard",
         "material": [
             "027",
             "027"
         ],
+        "category": "helmets",
         "name": "Церемониальный Шлем"
     },
     {
-        "id": 323,
+        "id": "323",
         "image": "/assets/img/items/m323.png",
         "type": "standard",
         "material": [
@@ -2023,10 +2203,11 @@
             "027",
             "024"
         ],
-        "name": "Чекан"
+        "name": "Чекан",
+        "category": "weapons"
     },
     {
-        "id": 338,
+        "id": "338",
         "image": "/assets/img/items/m338.png",
         "type": "standard",
         "material": [
@@ -2035,10 +2216,11 @@
             "025",
             "029"
         ],
-        "name": "Чекан Убийцы"
+        "name": "Чекан Убийцы",
+        "category": "weapons"
     },
     {
-        "id": 327,
+        "id": "327",
         "image": "/assets/img/items/m327.png",
         "type": "standard",
         "material": [
@@ -2046,10 +2228,11 @@
             "029",
             "031"
         ],
+        "category": "weapons",
         "name": "Шипастая Булава"
     },
     {
-        "id": 296,
+        "id": "296",
         "image": "/assets/img/items/m296.png",
         "type": "standard",
         "material": [
@@ -2057,10 +2240,11 @@
             "025",
             "026"
         ],
-        "name": "Шкура Фенрира"
+        "name": "Шкура Фенрира",
+        "category": "armor"
     },
     {
-        "id": 304,
+        "id": "304",
         "image": "/assets/img/items/m304.png",
         "type": "standard",
         "material": [
@@ -2068,10 +2252,11 @@
             "026",
             "028"
         ],
+        "category": "helmets",
         "name": "Шлем Берсерка"
     },
     {
-        "id": 303,
+        "id": "303",
         "image": "/assets/img/items/m303.png",
         "type": "standard",
         "material": [
@@ -2079,10 +2264,11 @@
             "027",
             "031"
         ],
+        "category": "helmets",
         "name": "Шлем Видара"
     },
     {
-        "id": 300,
+        "id": "300",
         "image": "/assets/img/items/m300.png",
         "type": "standard",
         "material": [
@@ -2090,10 +2276,11 @@
             "025",
             "028"
         ],
+        "category": "helmets",
         "name": "Шлем Викинга"
     },
     {
-        "id": 309,
+        "id": "309",
         "image": "/assets/img/items/m309.png",
         "type": "standard",
         "material": [
@@ -2102,10 +2289,11 @@
             "026",
             "022"
         ],
+        "category": "helmets",
         "name": "Шлем Власти"
     },
     {
-        "id": 370,
+        "id": "370",
         "image": "/assets/img/items/m370.png",
         "type": "standard",
         "material": [
@@ -2114,10 +2302,11 @@
             "026",
             "030"
         ],
+        "category": "helmets",
         "name": "Шлем Воителя"
     },
     {
-        "id": 264,
+        "id": "264",
         "image": "/assets/img/items/m264.png",
         "type": "standard",
         "material": [
@@ -2125,10 +2314,11 @@
             "027",
             "025"
         ],
+        "category": "helmets",
         "name": "Шлем Конунга"
     },
     {
-        "id": 266,
+        "id": "266",
         "image": "/assets/img/items/m266.png",
         "type": "standard",
         "material": [
@@ -2136,10 +2326,11 @@
             "027",
             "029"
         ],
+        "category": "helmets",
         "name": "Шлем Могущества"
     },
     {
-        "id": 301,
+        "id": "301",
         "image": "/assets/img/items/m301.png",
         "type": "standard",
         "material": [
@@ -2147,30 +2338,33 @@
             "027",
             "027"
         ],
+        "category": "helmets",
         "name": "Шлем Морехода"
     },
     {
-        "id": 258,
+        "id": "258",
         "image": "/assets/img/items/m258.png",
         "type": "standard",
         "material": [
             "028",
             "023"
         ],
+        "category": "helmets",
         "name": "Шлем Одина"
     },
     {
-        "id": 261,
+        "id": "261",
         "image": "/assets/img/items/m261.png",
         "type": "standard",
         "material": [
             "029",
             "026"
         ],
+        "category": "helmets",
         "name": "Шлем Палача"
     },
     {
-        "id": 306,
+        "id": "306",
         "image": "/assets/img/items/m306.png",
         "type": "standard",
         "material": [
@@ -2178,10 +2372,11 @@
             "022",
             "022"
         ],
+        "category": "helmets",
         "name": "Шлем Покорителя"
     },
     {
-        "id": 373,
+        "id": "373",
         "image": "/assets/img/items/m373.png",
         "type": "standard",
         "material": [
@@ -2190,10 +2385,11 @@
             "030",
             "030"
         ],
+        "category": "helmets",
         "name": "Шлем Разрушителя"
     },
     {
-        "id": 375,
+        "id": "375",
         "image": "/assets/img/items/m375.png",
         "type": "standard",
         "material": [
@@ -2202,10 +2398,11 @@
             "029",
             "023"
         ],
+        "category": "helmets",
         "name": "Шлем Тирана"
     },
     {
-        "id": 265,
+        "id": "265",
         "image": "/assets/img/items/m265.png",
         "type": "standard",
         "material": [
@@ -2214,10 +2411,11 @@
             "027",
             "025"
         ],
+        "category": "helmets",
         "name": "Шлем Тора"
     },
     {
-        "id": 372,
+        "id": "372",
         "image": "/assets/img/items/m372.png",
         "type": "standard",
         "material": [
@@ -2226,10 +2424,11 @@
             "031",
             "031"
         ],
+        "category": "helmets",
         "name": "Шлем Убийцы"
     },
     {
-        "id": 378,
+        "id": "378",
         "image": "/assets/img/items/m378.png",
         "type": "standard",
         "material": [
@@ -2238,10 +2437,11 @@
             "027",
             "027"
         ],
+        "category": "helmets",
         "name": "Шлем Ярла"
     },
     {
-        "id": 499,
+        "id": "499",
         "image": "/assets/img/items/m499.png",
         "type": "invader",
         "material": [
@@ -2250,10 +2450,11 @@
             "094",
             "095"
         ],
+        "category": "armor",
         "name": "Белая Мантия"
     },
     {
-        "id": 501,
+        "id": "501",
         "image": "/assets/img/items/m501.png",
         "type": "invader",
         "material": [
@@ -2262,10 +2463,11 @@
             "093",
             "096"
         ],
+        "category": "boots",
         "name": "Белые Сапоги"
     },
     {
-        "id": 506,
+        "id": "506",
         "image": "/assets/img/items/m506.png",
         "type": "invader",
         "material": [
@@ -2274,10 +2476,11 @@
             "100",
             "100"
         ],
+        "category": "boots",
         "name": "Бесшумные Ботинки"
     },
     {
-        "id": 497,
+        "id": "497",
         "image": "/assets/img/items/m497.png",
         "type": "invader",
         "material": [
@@ -2286,10 +2489,11 @@
             "091",
             "091"
         ],
-        "name": "Бронзовый Желудь"
+        "name": "Бронзовый Желудь",
+        "category": "amulets"
     },
     {
-        "id": 474,
+        "id": "474",
         "image": "/assets/img/items/m474.png",
         "type": "invader",
         "material": [
@@ -2298,10 +2502,11 @@
             "070",
             "029"
         ],
+        "category": "armor",
         "name": "Броня Своры"
     },
     {
-        "id": 455,
+        "id": "455",
         "image": "/assets/img/items/m455.png",
         "type": "invader",
         "material": [
@@ -2310,10 +2515,11 @@
             "051",
             "025"
         ],
+        "category": "helmets",
         "name": "Бурый Шлем"
     },
     {
-        "id": 458,
+        "id": "458",
         "image": "/assets/img/items/m458.png",
         "type": "invader",
         "material": [
@@ -2322,10 +2528,11 @@
             "054",
             "055"
         ],
+        "category": "weapons",
         "name": "Восточный Лук"
     },
     {
-        "id": 510,
+        "id": "510",
         "image": "/assets/img/items/m510.png",
         "type": "invader",
         "material": [
@@ -2334,10 +2541,11 @@
             "104",
             "105"
         ],
-        "name": "Высокий Тюрбан"
+        "name": "Высокий Тюрбан",
+        "category": "helmets"
     },
     {
-        "id": 491,
+        "id": "491",
         "image": "/assets/img/items/m491.png",
         "type": "invader",
         "material": [
@@ -2346,10 +2554,11 @@
             "086",
             "086"
         ],
+        "category": "boots",
         "name": "Гасконские Сапоги"
     },
     {
-        "id": 490,
+        "id": "490",
         "image": "/assets/img/items/m490.png",
         "type": "invader",
         "material": [
@@ -2358,10 +2567,11 @@
             "084",
             "084"
         ],
+        "category": "helmets",
         "name": "Гасконский Шлем"
     },
     {
-        "id": 449,
+        "id": "449",
         "image": "/assets/img/items/m449.png",
         "type": "invader",
         "material": [
@@ -2370,10 +2580,11 @@
             "045",
             "029"
         ],
+        "category": "armor",
         "name": "Доспех Варвара"
     },
     {
-        "id": 496,
+        "id": "496",
         "image": "/assets/img/items/m496.png",
         "type": "invader",
         "material": [
@@ -2382,10 +2593,11 @@
             "090",
             "090"
         ],
+        "category": "boots",
         "name": "Жесткие Сапоги"
     },
     {
-        "id": 485,
+        "id": "485",
         "image": "/assets/img/items/m485.png",
         "type": "invader",
         "material": [
@@ -2394,10 +2606,11 @@
             "078",
             "079"
         ],
+        "category": "helmets",
         "name": "Змеиная Голова"
     },
     {
-        "id": 462,
+        "id": "462",
         "image": "/assets/img/items/m462.png",
         "type": "invader",
         "material": [
@@ -2406,10 +2619,11 @@
             "056",
             "023"
         ],
-        "name": "Золотой Браслет"
+        "name": "Золотой Браслет",
+        "category": "amulets"
     },
     {
-        "id": 503,
+        "id": "503",
         "image": "/assets/img/items/m503.png",
         "type": "invader",
         "material": [
@@ -2418,10 +2632,11 @@
             "101",
             "101"
         ],
+        "category": "weapons",
         "name": "Зубчатый Нож"
     },
     {
-        "id": 441,
+        "id": "441",
         "image": "/assets/img/items/m441.png",
         "type": "invader",
         "material": [
@@ -2430,10 +2645,11 @@
             "033",
             "035"
         ],
-        "name": "Кальцеус Центуриона"
+        "name": "Кальцеус Центуриона",
+        "category": "boots"
     },
     {
-        "id": 438,
+        "id": "438",
         "image": "/assets/img/items/m438.png",
         "type": "invader",
         "material": [
@@ -2442,10 +2658,11 @@
             "036",
             "033"
         ],
+        "category": "weapons",
         "name": "Кинжал Центуриона"
     },
     {
-        "id": 463,
+        "id": "463",
         "image": "/assets/img/items/m463.png",
         "type": "invader",
         "material": [
@@ -2454,10 +2671,11 @@
             "061",
             "021"
         ],
+        "category": "weapons",
         "name": "Кинжалы Прайда"
     },
     {
-        "id": 513,
+        "id": "513",
         "image": "/assets/img/items/m513.png",
         "type": "invader",
         "material": [
@@ -2466,10 +2684,11 @@
             "110",
             "109"
         ],
-        "name": "Клевец Падальщика"
+        "name": "Клевец Падальщика",
+        "category": "weapons"
     },
     {
-        "id": 507,
+        "id": "507",
         "image": "/assets/img/items/m507.png",
         "type": "invader",
         "material": [
@@ -2478,10 +2697,11 @@
             "101",
             "101"
         ],
-        "name": "Клык Рыси"
+        "name": "Клык Рыси",
+        "category": "amulets"
     },
     {
-        "id": 443,
+        "id": "443",
         "image": "/assets/img/items/m443.png",
         "type": "invader",
         "material": [
@@ -2490,10 +2710,11 @@
             "041",
             "027"
         ],
-        "name": "Когти Стаи"
+        "name": "Когти Стаи",
+        "category": "weapons"
     },
     {
-        "id": 442,
+        "id": "442",
         "image": "/assets/img/items/m442.png",
         "type": "invader",
         "material": [
@@ -2502,10 +2723,11 @@
             "035",
             "036"
         ],
-        "name": "Кольцо Центуриона"
+        "name": "Кольцо Центуриона",
+        "category": "amulets"
     },
     {
-        "id": 469,
+        "id": "469",
         "image": "/assets/img/items/m469.png",
         "type": "invader",
         "material": [
@@ -2514,10 +2736,11 @@
             "066",
             "021"
         ],
-        "name": "Кольчужная Куртка"
+        "name": "Кольчужная Куртка",
+        "category": "armor"
     },
     {
-        "id": 493,
+        "id": "493",
         "image": "/assets/img/items/m493.png",
         "type": "invader",
         "material": [
@@ -2526,10 +2749,11 @@
             "089",
             "089"
         ],
+        "category": "weapons",
         "name": "Костяной Кинжал"
     },
     {
-        "id": 481,
+        "id": "481",
         "image": "/assets/img/items/m481.png",
         "type": "invader",
         "material": [
@@ -2538,10 +2762,11 @@
             "073",
             "073"
         ],
+        "category": "boots",
         "name": "Крепкие Башмаки"
     },
     {
-        "id": 502,
+        "id": "502",
         "image": "/assets/img/items/m502.png",
         "type": "invader",
         "material": [
@@ -2550,10 +2775,11 @@
             "095",
             "096"
         ],
-        "name": "Латная Перчатка"
+        "name": "Латная Перчатка",
+        "category": "amulets"
     },
     {
-        "id": 516,
+        "id": "516",
         "image": "/assets/img/items/m516.png",
         "type": "invader",
         "material": [
@@ -2562,10 +2788,11 @@
             "110",
             "111"
         ],
+        "category": "boots",
         "name": "Легкие Башмаки"
     },
     {
-        "id": 479,
+        "id": "479",
         "image": "/assets/img/items/m479.png",
         "type": "invader",
         "material": [
@@ -2574,10 +2801,11 @@
             "075",
             "022"
         ],
+        "category": "armor",
         "name": "Легкие Латы"
     },
     {
-        "id": 465,
+        "id": "465",
         "image": "/assets/img/items/m465.png",
         "type": "invader",
         "material": [
@@ -2586,10 +2814,11 @@
             "061",
             "025"
         ],
+        "category": "helmets",
         "name": "Львиная Грива"
     },
     {
-        "id": 495,
+        "id": "495",
         "image": "/assets/img/items/m495.png",
         "type": "invader",
         "material": [
@@ -2598,10 +2827,11 @@
             "089",
             "089"
         ],
+        "category": "helmets",
         "name": "Маска Вепря"
     },
     {
-        "id": 445,
+        "id": "445",
         "image": "/assets/img/items/m445.png",
         "type": "invader",
         "material": [
@@ -2610,10 +2840,11 @@
             "041",
             "025"
         ],
+        "category": "helmets",
         "name": "Маска Каниса"
     },
     {
-        "id": 467,
+        "id": "467",
         "image": "/assets/img/items/m467.png",
         "type": "invader",
         "material": [
@@ -2622,10 +2853,11 @@
             "060",
             "027"
         ],
-        "name": "Медальон Льва"
+        "name": "Медальон Льва",
+        "category": "amulets"
     },
     {
-        "id": 457,
+        "id": "457",
         "image": "/assets/img/items/m457.png",
         "type": "invader",
         "material": [
@@ -2634,10 +2866,11 @@
             "051",
             "026"
         ],
-        "name": "Медвежий Зуб"
+        "name": "Медвежий Зуб",
+        "category": "amulets"
     },
     {
-        "id": 453,
+        "id": "453",
         "image": "/assets/img/items/m453.png",
         "type": "invader",
         "material": [
@@ -2646,10 +2879,11 @@
             "051",
             "027"
         ],
+        "category": "weapons",
         "name": "Медвежья Булава"
     },
     {
-        "id": 454,
+        "id": "454",
         "image": "/assets/img/items/m454.png",
         "type": "invader",
         "material": [
@@ -2658,10 +2892,11 @@
             "050",
             "030"
         ],
+        "category": "armor",
         "name": "Медвежья Шуба"
     },
     {
-        "id": 480,
+        "id": "480",
         "image": "/assets/img/items/m480.png",
         "type": "invader",
         "material": [
@@ -2670,10 +2905,11 @@
             "076",
             "076"
         ],
+        "category": "helmets",
         "name": "Медный Шлем"
     },
     {
-        "id": 460,
+        "id": "460",
         "image": "/assets/img/items/m460.png",
         "type": "invader",
         "material": [
@@ -2682,10 +2918,11 @@
             "056",
             "029"
         ],
-        "name": "Меховая Шапка"
+        "name": "Меховая Шапка",
+        "category": "helmets"
     },
     {
-        "id": 505,
+        "id": "505",
         "image": "/assets/img/items/m505.png",
         "type": "invader",
         "material": [
@@ -2694,10 +2931,11 @@
             "098",
             "100"
         ],
+        "category": "helmets",
         "name": "Меховой Капюшон"
     },
     {
-        "id": 498,
+        "id": "498",
         "image": "/assets/img/items/m498.png",
         "type": "invader",
         "material": [
@@ -2706,10 +2944,11 @@
             "095",
             "096"
         ],
+        "category": "weapons",
         "name": "Меч Возмездия"
     },
     {
-        "id": 488,
+        "id": "488",
         "image": "/assets/img/items/m488.png",
         "type": "invader",
         "material": [
@@ -2718,10 +2957,11 @@
             "083",
             "085"
         ],
+        "category": "weapons",
         "name": "Меч Юга"
     },
     {
-        "id": 489,
+        "id": "489",
         "image": "/assets/img/items/m489.png",
         "type": "invader",
         "material": [
@@ -2730,10 +2970,11 @@
             "085",
             "086"
         ],
-        "name": "Многослойный Жилет"
+        "name": "Многослойный Жилет",
+        "category": "armor"
     },
     {
-        "id": 472,
+        "id": "472",
         "image": "/assets/img/items/m472.png",
         "type": "invader",
         "material": [
@@ -2742,10 +2983,11 @@
             "066",
             "030"
         ],
-        "name": "Наборный Пояс"
+        "name": "Наборный Пояс",
+        "category": "amulets"
     },
     {
-        "id": 509,
+        "id": "509",
         "image": "/assets/img/items/m509.png",
         "type": "invader",
         "material": [
@@ -2754,10 +2996,11 @@
             "104",
             "106"
         ],
+        "category": "armor",
         "name": "Нагрудник Сарацина"
     },
     {
-        "id": 444,
+        "id": "444",
         "image": "/assets/img/items/m444.png",
         "type": "invader",
         "material": [
@@ -2766,10 +3009,11 @@
             "040",
             "028"
         ],
+        "category": "armor",
         "name": "Нагрудник Стаи"
     },
     {
-        "id": 446,
+        "id": "446",
         "image": "/assets/img/items/m446.png",
         "type": "invader",
         "material": [
@@ -2778,10 +3022,11 @@
             "040",
             "029"
         ],
+        "category": "boots",
         "name": "Ночная Поступь"
     },
     {
-        "id": 447,
+        "id": "447",
         "image": "/assets/img/items/m447.png",
         "type": "invader",
         "material": [
@@ -2790,10 +3035,11 @@
             "041",
             "020"
         ],
-        "name": "Око Каниса"
+        "name": "Око Каниса",
+        "category": "amulets"
     },
     {
-        "id": 478,
+        "id": "478",
         "image": "/assets/img/items/m478.png",
         "type": "invader",
         "material": [
@@ -2802,10 +3048,11 @@
             "073",
             "074"
         ],
+        "category": "weapons",
         "name": "Острая Секира"
     },
     {
-        "id": 473,
+        "id": "473",
         "image": "/assets/img/items/m473.png",
         "type": "invader",
         "material": [
@@ -2814,10 +3061,11 @@
             "070",
             "025"
         ],
+        "category": "weapons",
         "name": "Охотничий Нож"
     },
     {
-        "id": 439,
+        "id": "439",
         "image": "/assets/img/items/m439.png",
         "type": "invader",
         "material": [
@@ -2826,10 +3074,11 @@
             "025",
             "025"
         ],
-        "name": "Панцирь Центуриона"
+        "name": "Панцирь Центуриона",
+        "category": "armor"
     },
     {
-        "id": 470,
+        "id": "470",
         "image": "/assets/img/items/m470.png",
         "type": "invader",
         "material": [
@@ -2838,10 +3087,11 @@
             "065",
             "066"
         ],
+        "category": "helmets",
         "name": "Пластинчатый Шлем"
     },
     {
-        "id": 466,
+        "id": "466",
         "image": "/assets/img/items/m466.png",
         "type": "invader",
         "material": [
@@ -2850,10 +3100,11 @@
             "061",
             "026"
         ],
-        "name": "Поножи Охоты"
+        "name": "Поножи Охоты",
+        "category": "boots"
     },
     {
-        "id": 476,
+        "id": "476",
         "image": "/assets/img/items/m476.png",
         "type": "invader",
         "material": [
@@ -2862,10 +3113,11 @@
             "071",
             "027"
         ],
-        "name": "Поступь Своры"
+        "name": "Поступь Своры",
+        "category": "boots"
     },
     {
-        "id": 482,
+        "id": "482",
         "image": "/assets/img/items/m482.png",
         "type": "invader",
         "material": [
@@ -2874,10 +3126,11 @@
             "075",
             "076"
         ],
-        "name": "Походная Фляга"
+        "name": "Походная Фляга",
+        "category": "amulets"
     },
     {
-        "id": 487,
+        "id": "487",
         "image": "/assets/img/items/m487.png",
         "type": "invader",
         "material": [
@@ -2886,10 +3139,11 @@
             "080",
             "081"
         ],
-        "name": "Резной Шип"
+        "name": "Резной Шип",
+        "category": "amulets"
     },
     {
-        "id": 452,
+        "id": "452",
         "image": "/assets/img/items/m452.png",
         "type": "invader",
         "material": [
@@ -2898,10 +3152,11 @@
             "045",
             "023"
         ],
-        "name": "Рог Варвара"
+        "name": "Рог Варвара",
+        "category": "amulets"
     },
     {
-        "id": 451,
+        "id": "451",
         "image": "/assets/img/items/m451.png",
         "type": "invader",
         "material": [
@@ -2910,10 +3165,11 @@
             "046",
             "031"
         ],
+        "category": "boots",
         "name": "Сапоги Варвара"
     },
     {
-        "id": 461,
+        "id": "461",
         "image": "/assets/img/items/m461.png",
         "type": "invader",
         "material": [
@@ -2922,10 +3178,11 @@
             "054",
             "055"
         ],
+        "category": "boots",
         "name": "Сапоги Всадника"
     },
     {
-        "id": 456,
+        "id": "456",
         "image": "/assets/img/items/m456.png",
         "type": "invader",
         "material": [
@@ -2934,10 +3191,11 @@
             "050",
             "029"
         ],
+        "category": "boots",
         "name": "Сапоги Зверя"
     },
     {
-        "id": 471,
+        "id": "471",
         "image": "/assets/img/items/m471.png",
         "type": "invader",
         "material": [
@@ -2946,10 +3204,11 @@
             "065",
             "066"
         ],
+        "category": "boots",
         "name": "Сапоги Странника"
     },
     {
-        "id": 511,
+        "id": "511",
         "image": "/assets/img/items/m511.png",
         "type": "invader",
         "material": [
@@ -2958,10 +3217,11 @@
             "105",
             "105"
         ],
+        "category": "boots",
         "name": "Сапоги Эмира"
     },
     {
-        "id": 508,
+        "id": "508",
         "image": "/assets/img/items/m508.png",
         "type": "invader",
         "material": [
@@ -2970,10 +3230,11 @@
             "106",
             "106"
         ],
+        "category": "weapons",
         "name": "Сарацинский Меч"
     },
     {
-        "id": 484,
+        "id": "484",
         "image": "/assets/img/items/m484.png",
         "type": "invader",
         "material": [
@@ -2982,10 +3243,11 @@
             "079",
             "080"
         ],
-        "name": "Сверкающая Чешуя"
+        "name": "Сверкающая Чешуя",
+        "category": "armor"
     },
     {
-        "id": 492,
+        "id": "492",
         "image": "/assets/img/items/m492.png",
         "type": "invader",
         "material": [
@@ -2994,10 +3256,11 @@
             "084",
             "086"
         ],
-        "name": "Серебряные Ножны"
+        "name": "Серебряные Ножны",
+        "category": "amulets"
     },
     {
-        "id": 514,
+        "id": "514",
         "image": "/assets/img/items/m514.png",
         "type": "invader",
         "material": [
@@ -3006,10 +3269,11 @@
             "111",
             "111"
         ],
-        "name": "Стальное Оперение"
+        "name": "Стальное Оперение",
+        "category": "armor"
     },
     {
-        "id": 459,
+        "id": "459",
         "image": "/assets/img/items/m459.png",
         "type": "invader",
         "material": [
@@ -3018,10 +3282,11 @@
             "056",
             "025"
         ],
-        "name": "Степной Кафтан"
+        "name": "Степной Кафтан",
+        "category": "armor"
     },
     {
-        "id": 517,
+        "id": "517",
         "image": "/assets/img/items/m517.png",
         "type": "invader",
         "material": [
@@ -3030,10 +3295,11 @@
             "109",
             "110"
         ],
-        "name": "Талисман Воздуха"
+        "name": "Талисман Воздуха",
+        "category": "amulets"
     },
     {
-        "id": 448,
+        "id": "448",
         "image": "/assets/img/items/m448.png",
         "type": "invader",
         "material": [
@@ -3042,10 +3308,11 @@
             "046",
             "021"
         ],
+        "category": "weapons",
         "name": "Топоры Ярости"
     },
     {
-        "id": 468,
+        "id": "468",
         "image": "/assets/img/items/m468.png",
         "type": "invader",
         "material": [
@@ -3054,10 +3321,11 @@
             "066",
             "028"
         ],
+        "category": "weapons",
         "name": "Хазарский Лук"
     },
     {
-        "id": 486,
+        "id": "486",
         "image": "/assets/img/items/m486.png",
         "type": "invader",
         "material": [
@@ -3066,10 +3334,11 @@
             "079",
             "079"
         ],
+        "category": "boots",
         "name": "Чешуйчатые Ботинки"
     },
     {
-        "id": 475,
+        "id": "475",
         "image": "/assets/img/items/m475.png",
         "type": "invader",
         "material": [
@@ -3078,10 +3347,11 @@
             "071",
             "028"
         ],
+        "category": "helmets",
         "name": "Шерстяной Капюшон"
     },
     {
-        "id": 477,
+        "id": "477",
         "image": "/assets/img/items/m477.png",
         "type": "invader",
         "material": [
@@ -3090,10 +3360,11 @@
             "071",
             "022"
         ],
-        "name": "Шипованный Ошейник"
+        "name": "Шипованный Ошейник",
+        "category": "amulets"
     },
     {
-        "id": 464,
+        "id": "464",
         "image": "/assets/img/items/m464.png",
         "type": "invader",
         "material": [
@@ -3102,10 +3373,11 @@
             "059",
             "060"
         ],
-        "name": "Шкура Льва"
+        "name": "Шкура Льва",
+        "category": "armor"
     },
     {
-        "id": 504,
+        "id": "504",
         "image": "/assets/img/items/m504.png",
         "type": "invader",
         "material": [
@@ -3114,10 +3386,11 @@
             "098",
             "100"
         ],
-        "name": "Шкура Рыси"
+        "name": "Шкура Рыси",
+        "category": "armor"
     },
     {
-        "id": 450,
+        "id": "450",
         "image": "/assets/img/items/m450.png",
         "type": "invader",
         "material": [
@@ -3126,10 +3399,11 @@
             "046",
             "024"
         ],
+        "category": "helmets",
         "name": "Шлем Варвара"
     },
     {
-        "id": 500,
+        "id": "500",
         "image": "/assets/img/items/m500.png",
         "type": "invader",
         "material": [
@@ -3138,10 +3412,11 @@
             "095",
             "096"
         ],
+        "category": "helmets",
         "name": "Шлем Гвардейца"
     },
     {
-        "id": 515,
+        "id": "515",
         "image": "/assets/img/items/m515.png",
         "type": "invader",
         "material": [
@@ -3150,10 +3425,11 @@
             "109",
             "111"
         ],
+        "category": "helmets",
         "name": "Шлем Грифа"
     },
     {
-        "id": 440,
+        "id": "440",
         "image": "/assets/img/items/m440.png",
         "type": "invader",
         "material": [
@@ -3162,10 +3438,11 @@
             "034",
             "024"
         ],
+        "category": "helmets",
         "name": "Шлем Центуриона"
     },
     {
-        "id": 494,
+        "id": "494",
         "image": "/assets/img/items/m494.png",
         "type": "invader",
         "material": [
@@ -3174,10 +3451,11 @@
             "087",
             "087"
         ],
-        "name": "Щетинистый Панцирь"
+        "name": "Щетинистый Панцирь",
+        "category": "armor"
     },
     {
-        "id": 512,
+        "id": "512",
         "image": "/assets/img/items/m512.png",
         "type": "invader",
         "material": [
@@ -3186,10 +3464,11 @@
             "105",
             "106"
         ],
-        "name": "Эмалевый Перстень"
+        "name": "Эмалевый Перстень",
+        "category": "amulets"
     },
     {
-        "id": 483,
+        "id": "483",
         "image": "/assets/img/items/m483.png",
         "type": "invader",
         "material": [
@@ -3198,1589 +3477,1723 @@
             "080",
             "081"
         ],
-        "name": "Ядовитый Стилет"
+        "name": "Ядовитый Стилет",
+        "category": "weapons"
     },
     {
-        "id": 1563,
+        "id": "1563",
         "image": "/assets/img/items/m1563.png",
         "type": "special",
         "material": [
-            "m939",
-            "m547",
-            "m525",
-            "m928"
+            "939",
+            "547",
+            "525",
+            "928"
         ],
+        "category": "amulets",
         "name": "Амулет Реггвида"
     },
     {
-        "id": 924,
+        "id": "924",
         "image": "/assets/img/items/m924.png",
         "type": "special",
         "material": [
-            "m074",
-            "m488",
-            "m240"
+            "074",
+            "488",
+            "240"
         ],
+        "category": "weapons",
         "name": "Ангон Олафа"
     },
     {
-        "id": 522,
+        "id": "522",
         "image": "/assets/img/items/m522.png",
         "type": "special",
         "material": [
-            "m040",
-            "m516",
-            "m409"
+            "040",
+            "516",
+            "409"
         ],
+        "category": "boots",
         "name": "Башмаки Ивара"
     },
     {
-        "id": 547,
+        "id": "547",
         "image": "/assets/img/items/m547.png",
         "type": "special",
         "material": [
-            "m098",
-            "m099",
-            "m501",
-            "m408"
+            "098",
+            "099",
+            "501",
+            "408"
         ],
+        "category": "boots",
         "name": "Ботинки Лейфа"
     },
     {
-        "id": 533,
+        "id": "533",
         "image": "/assets/img/items/m533.png",
         "type": "special",
         "material": [
-            "m369",
-            "m269",
-            "m395"
+            "369",
+            "269",
+            "395"
         ],
+        "category": "boots",
         "name": "Ботинки Сигурда"
     },
     {
-        "id": 923,
+        "id": "923",
         "image": "/assets/img/items/m923.png",
         "type": "special",
         "material": [
-            "m050",
-            "m051",
-            "m487",
-            "m354"
+            "050",
+            "051",
+            "487",
+            "354"
         ],
-        "name": "Браслет Ивара"
+        "name": "Браслет Ивара",
+        "category": "amulets"
     },
     {
-        "id": 530,
+        "id": "530",
         "image": "/assets/img/items/m530.png",
         "type": "special",
         "material": [
-            "m349",
-            "m239",
-            "m251"
+            "349",
+            "239",
+            "251"
         ],
+        "category": "weapons",
         "name": "Бродекс Лейфа"
     },
     {
-        "id": 529,
+        "id": "529",
         "image": "/assets/img/items/m529.png",
         "type": "special",
         "material": [
-            "m062",
-            "m064",
-            "m464",
-            "m360"
+            "062",
+            "064",
+            "464",
+            "360"
         ],
+        "category": "armor",
         "name": "Броня Эйрика"
     },
     {
-        "id": 1578,
+        "id": "1578",
         "image": "/assets/img/items/m1578.png",
         "type": "special",
         "material": [
-            "m937",
-            "m925",
-            "m927",
-            "m929"
+            "937",
+            "925",
+            "927",
+            "929"
         ],
-        "name": "Вегвизир Уббы"
+        "name": "Вегвизир Уббы",
+        "category": "amulets"
     },
     {
-        "id": 1568,
+        "id": "1568",
         "image": "/assets/img/items/m1568.png",
         "type": "special",
         "material": [
-            "m526",
-            "m937",
-            "m531",
-            "m930"
+            "526",
+            "937",
+            "531",
+            "930"
         ],
-        "name": "Гребень Бродира"
+        "name": "Гребень Бродира",
+        "category": "amulets"
     },
     {
-        "id": 538,
+        "id": "538",
         "image": "/assets/img/items/m538.png",
         "type": "special",
         "material": [
-            "m055",
-            "m060",
-            "m455",
-            "m358"
+            "055",
+            "060",
+            "455",
+            "358"
         ],
+        "category": "armor",
         "name": "Доспех Бьерна"
     },
     {
-        "id": 546,
+        "id": "546",
         "image": "/assets/img/items/m546.png",
         "type": "special",
         "material": [
-            "m079",
-            "m480",
-            "m250"
+            "079",
+            "480",
+            "250"
         ],
+        "category": "armor",
         "name": "Доспех Олафа"
     },
     {
-        "id": 1555,
+        "id": "1555",
         "image": "/assets/img/items/m1555.png",
         "type": "special",
         "material": [
-            "m921",
-            "m923",
-            "m922",
-            "m530"
+            "921",
+            "923",
+            "922",
+            "530"
         ],
-        "name": "Жилет Кнуда"
+        "name": "Жилет Кнуда",
+        "category": "armor"
     },
     {
-        "id": 531,
+        "id": "531",
         "image": "/assets/img/items/m531.png",
         "type": "special",
         "material": [
-            "m056",
-            "m454",
-            "m357"
+            "056",
+            "454",
+            "357"
         ],
-        "name": "Жилет Лейфа"
+        "name": "Жилет Лейфа",
+        "category": "armor"
     },
     {
-        "id": 921,
+        "id": "921",
         "image": "/assets/img/items/m921.png",
         "type": "special",
         "material": [
-            "m103",
-            "m105",
-            "m482",
-            "m355"
+            "103",
+            "105",
+            "482",
+            "355"
         ],
-        "name": "Знамя Рагнара"
+        "name": "Знамя Рагнара",
+        "category": "amulets"
     },
     {
-        "id": 925,
+        "id": "925",
         "image": "/assets/img/items/m925.png",
         "type": "special",
         "material": [
-            "m061",
-            "m058",
-            "m492",
-            "m336"
+            "061",
+            "058",
+            "492",
+            "336"
         ],
-        "name": "Зуб Харальда"
+        "name": "Зуб Харальда",
+        "category": "amulets"
     },
     {
-        "id": 539,
+        "id": "539",
         "image": "/assets/img/items/m539.png",
         "type": "special",
         "material": [
-            "m025",
-            "m026",
-            "m263",
-            "m344"
+            "025",
+            "026",
+            "263",
+            "344"
         ],
+        "category": "helmets",
         "name": "Капюшон Сигурда"
     },
     {
-        "id": 929,
+        "id": "929",
         "image": "/assets/img/items/m929.png",
         "type": "special",
         "material": [
-            "m467",
-            "m457",
-            "m399"
+            "467",
+            "457",
+            "399"
         ],
-        "name": "Карта Лейфа"
+        "name": "Карта Лейфа",
+        "category": "amulets"
     },
     {
-        "id": 1564,
+        "id": "1564",
         "image": "/assets/img/items/m1564.png",
         "type": "special",
         "material": [
-            "m925",
-            "m927",
-            "m546",
-            "m535"
+            "925",
+            "927",
+            "546",
+            "535"
         ],
+        "category": "weapons",
         "name": "Кистень Бродира"
     },
     {
-        "id": 936,
+        "id": "936",
         "image": "/assets/img/items/m936.png",
         "type": "special",
         "material": [
-            "m065",
-            "m247",
-            "m503"
+            "065",
+            "247",
+            "503"
         ],
+        "category": "weapons",
         "name": "Кистень Свена"
     },
     {
-        "id": 1559,
+        "id": "1559",
         "image": "/assets/img/items/m1559.png",
         "type": "special",
         "material": [
-            "m927",
-            "m935",
-            "m537",
-            "m531"
+            "927",
+            "935",
+            "537",
+            "531"
         ],
-        "name": "Клевец Реггвида"
+        "name": "Клевец Реггвида",
+        "category": "weapons"
     },
     {
-        "id": 1574,
+        "id": "1574",
         "image": "/assets/img/items/m1574.png",
         "type": "special",
         "material": [
-            "m924",
-            "m523",
-            "m534",
-            "m541"
+            "924",
+            "523",
+            "534",
+            "541"
         ],
+        "category": "weapons",
         "name": "Клинок Уббы"
     },
     {
-        "id": 541,
+        "id": "541",
         "image": "/assets/img/items/m541.png",
         "type": "special",
         "material": [
-            "m089",
-            "m091",
-            "m488",
-            "m419"
+            "089",
+            "091",
+            "488",
+            "419"
         ],
+        "category": "weapons",
         "name": "Клинок Харальда"
     },
     {
-        "id": 518,
+        "id": "518",
         "image": "/assets/img/items/m518.png",
         "type": "special",
         "material": [
-            "m366",
-            "m238",
-            "m250"
+            "366",
+            "238",
+            "250"
         ],
+        "category": "armor",
         "name": "Кольчуга Рагнара"
     },
     {
-        "id": 1550,
+        "id": "1550",
         "image": "/assets/img/items/m1550.png",
         "type": "special",
         "material": [
-            "m921",
-            "m532",
-            "m537",
-            "m525"
+            "921",
+            "532",
+            "537",
+            "525"
         ],
+        "category": "armor",
         "name": "Кольчуга Роллона"
     },
     {
-        "id": 922,
+        "id": "922",
         "image": "/assets/img/items/m922.png",
         "type": "special",
         "material": [
-            "m030",
-            "m097",
-            "m101",
-            "m469"
+            "030",
+            "097",
+            "101",
+            "469"
         ],
+        "category": "armor",
         "name": "Кольчуга Свена"
     },
     {
-        "id": 536,
+        "id": "536",
         "image": "/assets/img/items/m536.png",
         "type": "special",
         "material": [
-            "m021",
-            "m284",
-            "m341"
+            "021",
+            "284",
+            "341"
         ],
-        "name": "Копье Бьерна"
+        "name": "Копье Бьерна",
+        "category": "weapons"
     },
     {
-        "id": 1544,
+        "id": "1544",
         "image": "/assets/img/items/m1544.png",
         "type": "special",
         "material": [
-            "m931",
-            "m926",
-            "m543",
-            "m522"
+            "931",
+            "926",
+            "543",
+            "522"
         ],
-        "name": "Копье Гутрума"
+        "name": "Копье Гутрума",
+        "category": "weapons"
     },
     {
-        "id": 1541,
+        "id": "1541",
         "image": "/assets/img/items/m1541.png",
         "type": "special",
         "material": [
-            "m523",
-            "m923",
-            "m540",
-            "m519"
+            "523",
+            "923",
+            "540",
+            "519"
         ],
-        "name": "Корона Хальфдана"
+        "name": "Корона Хальфдана",
+        "category": "helmets"
     },
     {
-        "id": 525,
+        "id": "525",
         "image": "/assets/img/items/m525.png",
         "type": "special",
         "material": [
-            "m104",
-            "m505",
-            "m261"
+            "104",
+            "505",
+            "261"
         ],
-        "name": "Корона Харальда"
+        "name": "Корона Харальда",
+        "category": "helmets"
     },
     {
-        "id": 933,
+        "id": "933",
         "image": "/assets/img/items/m933.png",
         "type": "special",
         "material": [
-            "m472",
-            "m440",
-            "m272"
+            "472",
+            "440",
+            "272"
         ],
-        "name": "Кубок Бьерна"
+        "name": "Кубок Бьерна",
+        "category": "amulets"
     },
     {
-        "id": 1558,
+        "id": "1558",
         "image": "/assets/img/items/m1558.png",
         "type": "special",
         "material": [
-            "m935",
-            "m929",
-            "m936",
-            "m926"
+            "935",
+            "929",
+            "936",
+            "926"
         ],
-        "name": "Кубок Кнуда"
+        "name": "Кубок Кнуда",
+        "category": "amulets"
     },
     {
-        "id": 543,
+        "id": "543",
         "image": "/assets/img/items/m543.png",
         "type": "special",
         "material": [
-            "m106",
-            "m504",
-            "m253"
+            "106",
+            "504",
+            "253"
         ],
-        "name": "Куртка Ивара"
+        "name": "Куртка Ивара",
+        "category": "armor"
     },
     {
-        "id": 1565,
+        "id": "1565",
         "image": "/assets/img/items/m1565.png",
         "type": "special",
         "material": [
-            "m541",
-            "m939",
-            "m924",
-            "m533"
+            "541",
+            "939",
+            "924",
+            "533"
         ],
-        "name": "Ламелляр Бродира"
+        "name": "Ламелляр Бродира",
+        "category": "armor"
     },
     {
-        "id": 523,
+        "id": "523",
         "image": "/assets/img/items/m523.png",
         "type": "special",
         "material": [
-            "m082",
-            "m084",
-            "m483",
-            "m347"
+            "082",
+            "084",
+            "483",
+            "347"
         ],
+        "category": "weapons",
         "name": "Лук Ивара"
     },
     {
-        "id": 937,
+        "id": "937",
         "image": "/assets/img/items/m937.png",
         "type": "special",
         "material": [
-            "m467",
-            "m443",
-            "m401"
+            "467",
+            "443",
+            "401"
         ],
-        "name": "Медальон Свена"
+        "name": "Медальон Свена",
+        "category": "amulets"
     },
     {
-        "id": 534,
+        "id": "534",
         "image": "/assets/img/items/m534.png",
         "type": "special",
         "material": [
-            "m052",
-            "m454",
-            "m327"
+            "052",
+            "454",
+            "327"
         ],
+        "category": "weapons",
         "name": "Меч Сигурда"
     },
     {
-        "id": 1539,
+        "id": "1539",
         "image": "/assets/img/items/m1539.png",
         "type": "special",
         "material": [
-            "m939",
-            "m933",
-            "m932",
-            "m518"
+            "939",
+            "933",
+            "932",
+            "518"
         ],
+        "category": "weapons",
         "name": "Меч Хальфдана"
     },
     {
-        "id": 1549,
+        "id": "1549",
         "image": "/assets/img/items/m1549.png",
         "type": "special",
         "material": [
-            "m526",
-            "m520",
-            "m932",
-            "m920"
+            "526",
+            "520",
+            "932",
+            "920"
         ],
+        "category": "weapons",
         "name": "Молот Роллона"
     },
     {
-        "id": 1553,
+        "id": "1553",
         "image": "/assets/img/items/m1553.png",
         "type": "special",
         "material": [
-            "m923",
-            "m927",
-            "m534",
-            "m924"
+            "923",
+            "927",
+            "534",
+            "924"
         ],
-        "name": "Монета Роллона"
+        "name": "Монета Роллона",
+        "category": "amulets"
     },
     {
-        "id": 1545,
+        "id": "1545",
         "image": "/assets/img/items/m1545.png",
         "type": "special",
         "material": [
-            "m929",
-            "m921",
-            "m934",
-            "m521"
+            "929",
+            "921",
+            "934",
+            "521"
         ],
+        "category": "armor",
         "name": "Нагрудник Гутрума"
     },
     {
-        "id": 524,
+        "id": "524",
         "image": "/assets/img/items/m524.png",
         "type": "special",
         "material": [
-            "m028",
-            "m022",
-            "m365",
-            "m249"
+            "028",
+            "022",
+            "365",
+            "249"
         ],
+        "category": "armor",
         "name": "Нагрудник Харальда"
     },
     {
-        "id": 535,
+        "id": "535",
         "image": "/assets/img/items/m535.png",
         "type": "special",
         "material": [
-            "m072",
-            "m081",
-            "m474",
-            "m361"
+            "072",
+            "081",
+            "474",
+            "361"
         ],
-        "name": "Накидка Сигурда"
+        "name": "Накидка Сигурда",
+        "category": "armor"
     },
     {
-        "id": 939,
+        "id": "939",
         "image": "/assets/img/items/m939.png",
         "type": "special",
         "material": [
-            "m108",
-            "m111",
-            "m492",
-            "m379"
+            "108",
+            "111",
+            "492",
+            "379"
         ],
-        "name": "Ножны Хакона"
+        "name": "Ножны Хакона",
+        "category": "amulets"
     },
     {
-        "id": 935,
+        "id": "935",
         "image": "/assets/img/items/m935.png",
         "type": "special",
         "material": [
-            "m044",
-            "m045",
-            "m487",
-            "m290"
+            "044",
+            "045",
+            "487",
+            "290"
         ],
-        "name": "Печать Олафа"
+        "name": "Печать Олафа",
+        "category": "amulets"
     },
     {
-        "id": 934,
+        "id": "934",
         "image": "/assets/img/items/m934.png",
         "type": "special",
         "material": [
-            "m070",
-            "m071",
-            "m024",
-            "m469"
+            "070",
+            "071",
+            "024",
+            "469"
         ],
-        "name": "Плащ Хакона"
+        "name": "Плащ Хакона",
+        "category": "armor"
     },
     {
-        "id": 1540,
+        "id": "1540",
         "image": "/assets/img/items/m1540.png",
         "type": "special",
         "material": [
-            "m937",
-            "m925",
-            "m938",
-            "m520"
+            "937",
+            "925",
+            "938",
+            "520"
         ],
-        "name": "Плащ Хальфдана"
+        "name": "Плащ Хальфдана",
+        "category": "armor"
     },
     {
-        "id": 1557,
+        "id": "1557",
         "image": "/assets/img/items/m1557.png",
         "type": "special",
         "material": [
-            "m931",
-            "m937",
-            "m522",
-            "m927"
+            "931",
+            "937",
+            "522",
+            "927"
         ],
-        "name": "Поножи Кнуда"
+        "name": "Поножи Кнуда",
+        "category": "boots"
     },
     {
-        "id": 540,
+        "id": "540",
         "image": "/assets/img/items/m540.png",
         "type": "special",
         "material": [
-            "m080",
-            "m481",
-            "m316"
+            "080",
+            "481",
+            "316"
         ],
-        "name": "Поножи Олафа"
+        "name": "Поножи Олафа",
+        "category": "boots"
     },
     {
-        "id": 928,
+        "id": "928",
         "image": "/assets/img/items/m928.png",
         "type": "special",
         "material": [
-            "m022",
-            "m085",
-            "m086",
-            "m466"
+            "022",
+            "085",
+            "086",
+            "466"
         ],
-        "name": "Поножи Свена"
+        "name": "Поножи Свена",
+        "category": "boots"
     },
     {
-        "id": 1542,
+        "id": "1542",
         "image": "/assets/img/items/m1542.png",
         "type": "special",
         "material": [
-            "m547",
-            "m534",
-            "m546",
-            "m921"
+            "547",
+            "534",
+            "546",
+            "921"
         ],
-        "name": "Поножи Хальфдана"
+        "name": "Поножи Хальфдана",
+        "category": "boots"
     },
     {
-        "id": 526,
+        "id": "526",
         "image": "/assets/img/items/m526.png",
         "type": "special",
         "material": [
-            "m087",
-            "m088",
-            "m489",
-            "m380"
+            "087",
+            "088",
+            "489",
+            "380"
         ],
-        "name": "Поножи Харальда"
+        "name": "Поножи Харальда",
+        "category": "boots"
     },
     {
-        "id": 927,
+        "id": "927",
         "image": "/assets/img/items/m927.png",
         "type": "special",
         "material": [
-            "m092",
-            "m093",
-            "m517",
-            "m370"
+            "092",
+            "093",
+            "517",
+            "370"
         ],
-        "name": "Рог Эйрика"
+        "name": "Рог Эйрика",
+        "category": "amulets"
     },
     {
-        "id": 1567,
+        "id": "1567",
         "image": "/assets/img/items/m1567.png",
         "type": "special",
         "material": [
-            "m529",
-            "m523",
-            "m525",
-            "m931"
+            "529",
+            "523",
+            "525",
+            "931"
         ],
+        "category": "boots",
         "name": "Сапоги Бродира"
     },
     {
-        "id": 542,
+        "id": "542",
         "image": "/assets/img/items/m542.png",
         "type": "special",
         "material": [
-            "m431",
-            "m271",
-            "m498"
+            "431",
+            "271",
+            "498"
         ],
+        "category": "boots",
         "name": "Сапоги Бьерна"
     },
     {
-        "id": 1547,
+        "id": "1547",
         "image": "/assets/img/items/m1547.png",
         "type": "special",
         "material": [
-            "m541",
-            "m535",
-            "m936",
-            "m923"
+            "541",
+            "535",
+            "936",
+            "923"
         ],
+        "category": "boots",
         "name": "Сапоги Гутрума"
     },
     {
-        "id": 520,
+        "id": "520",
         "image": "/assets/img/items/m520.png",
         "type": "special",
         "material": [
-            "m077",
-            "m078",
-            "m481",
-            "m427"
+            "077",
+            "078",
+            "481",
+            "427"
         ],
+        "category": "boots",
         "name": "Сапоги Рагнара"
     },
     {
-        "id": 1562,
+        "id": "1562",
         "image": "/assets/img/items/m1562.png",
         "type": "special",
         "material": [
-            "m926",
-            "m529",
-            "m543",
-            "m530"
+            "926",
+            "529",
+            "543",
+            "530"
         ],
+        "category": "boots",
         "name": "Сапоги Реггвида"
     },
     {
-        "id": 1552,
+        "id": "1552",
         "image": "/assets/img/items/m1552.png",
         "type": "special",
         "material": [
-            "m933",
-            "m931",
-            "m934",
-            "m925"
+            "933",
+            "931",
+            "934",
+            "925"
         ],
+        "category": "boots",
         "name": "Сапоги Роллона"
     },
     {
-        "id": 1577,
+        "id": "1577",
         "image": "/assets/img/items/m1577.png",
         "type": "special",
         "material": [
-            "m520",
-            "m522",
-            "m547",
-            "m526"
+            "520",
+            "522",
+            "547",
+            "526"
         ],
+        "category": "boots",
         "name": "Сапоги Уббы"
     },
     {
-        "id": 932,
+        "id": "932",
         "image": "/assets/img/items/m932.png",
         "type": "special",
         "material": [
-            "m073",
-            "m471",
-            "m273"
+            "073",
+            "471",
+            "273"
         ],
+        "category": "boots",
         "name": "Сапоги Хакона"
     },
     {
-        "id": 527,
+        "id": "527",
         "image": "/assets/img/items/m527.png",
         "type": "special",
         "material": [
-            "m026",
-            "m020",
-            "m384",
-            "m268"
+            "026",
+            "020",
+            "384",
+            "268"
         ],
+        "category": "boots",
         "name": "Сапоги Эйрика"
     },
     {
-        "id": 1554,
+        "id": "1554",
         "image": "/assets/img/items/m1554.png",
         "type": "special",
         "material": [
-            "m520",
-            "m925",
-            "m928",
-            "m528"
+            "520",
+            "925",
+            "928",
+            "528"
         ],
+        "category": "weapons",
         "name": "Секира Кнуда"
     },
     {
-        "id": 545,
+        "id": "545",
         "image": "/assets/img/items/m545.png",
         "type": "special",
         "material": [
-            "m333",
-            "m244",
-            "m411"
+            "333",
+            "244",
+            "411"
         ],
+        "category": "weapons",
         "name": "Секира Эйрика"
     },
     {
-        "id": 926,
+        "id": "926",
         "image": "/assets/img/items/m926.png",
         "type": "special",
         "material": [
-            "m047",
-            "m240",
-            "m242",
-            "m463"
+            "047",
+            "240",
+            "242",
+            "463"
         ],
-        "name": "Скрамасакс Хакона"
+        "name": "Скрамасакс Хакона",
+        "category": "weapons"
     },
     {
-        "id": 519,
+        "id": "519",
         "image": "/assets/img/items/m519.png",
         "type": "special",
         "material": [
-            "m096",
-            "m493",
-            "m410"
+            "096",
+            "493",
+            "410"
         ],
+        "category": "weapons",
         "name": "Топор Рагнара"
     },
     {
-        "id": 1548,
+        "id": "1548",
         "image": "/assets/img/items/m1548.png",
         "type": "special",
         "material": [
-            "m544",
-            "m933",
-            "m932",
-            "m922"
+            "544",
+            "933",
+            "932",
+            "922"
         ],
-        "name": "Умбон Гутрума"
+        "name": "Умбон Гутрума",
+        "category": "amulets"
     },
     {
-        "id": 931,
+        "id": "931",
         "image": "/assets/img/items/m931.png",
         "type": "special",
         "material": [
-            "m477",
-            "m452",
-            "m277"
+            "477",
+            "452",
+            "277"
         ],
-        "name": "Уроборос Сигурда"
+        "name": "Уроборос Сигурда",
+        "category": "amulets"
     },
     {
-        "id": 1543,
+        "id": "1543",
         "image": "/assets/img/items/m1543.png",
         "type": "special",
         "material": [
-            "m541",
-            "m538",
-            "m531",
-            "m920"
+            "541",
+            "538",
+            "531",
+            "920"
         ],
-        "name": "Фибула Хальфдана"
+        "name": "Фибула Хальфдана",
+        "category": "amulets"
     },
     {
-        "id": 1560,
+        "id": "1560",
         "image": "/assets/img/items/m1560.png",
         "type": "special",
         "material": [
-            "m929",
-            "m538",
-            "m540",
-            "m938"
+            "929",
+            "538",
+            "540",
+            "938"
         ],
-        "name": "Хауберк Реггвида"
+        "name": "Хауберк Реггвида",
+        "category": "armor"
     },
     {
-        "id": 1575,
+        "id": "1575",
         "image": "/assets/img/items/m1575.png",
         "type": "special",
         "material": [
-            "m546",
-            "m529",
-            "m535",
-            "m543"
+            "546",
+            "529",
+            "535",
+            "543"
         ],
-        "name": "Чешуя Уббы"
+        "name": "Чешуя Уббы",
+        "category": "armor"
     },
     {
-        "id": 1546,
+        "id": "1546",
         "image": "/assets/img/items/m1546.png",
         "type": "special",
         "material": [
-            "m935",
-            "m523",
-            "m525",
-            "m519"
+            "935",
+            "523",
+            "525",
+            "519"
         ],
-        "name": "Шапка Гутрума"
+        "name": "Шапка Гутрума",
+        "category": "helmets"
     },
     {
-        "id": 521,
+        "id": "521",
         "image": "/assets/img/items/m521.png",
         "type": "special",
         "material": [
-            "m377",
-            "m258",
-            "m260"
+            "377",
+            "258",
+            "260"
         ],
-        "name": "Шапка Ивара"
+        "name": "Шапка Ивара",
+        "category": "helmets"
     },
     {
-        "id": 930,
+        "id": "930",
         "image": "/assets/img/items/m930.png",
         "type": "special",
         "material": [
-            "m068",
-            "m069",
-            "m027",
-            "m465"
+            "068",
+            "069",
+            "027",
+            "465"
         ],
-        "name": "Шапка Свена"
+        "name": "Шапка Свена",
+        "category": "helmets"
     },
     {
-        "id": 1566,
+        "id": "1566",
         "image": "/assets/img/items/m1566.png",
         "type": "special",
         "material": [
-            "m534",
-            "m544",
-            "m528",
-            "m532"
+            "534",
+            "544",
+            "528",
+            "532"
         ],
+        "category": "helmets",
         "name": "Шлем Бродира"
     },
     {
-        "id": 537,
+        "id": "537",
         "image": "/assets/img/items/m537.png",
         "type": "special",
         "material": [
-            "m100",
-            "m498",
-            "m261"
+            "100",
+            "498",
+            "261"
         ],
+        "category": "helmets",
         "name": "Шлем Бьерна"
     },
     {
-        "id": 1556,
+        "id": "1556",
         "image": "/assets/img/items/m1556.png",
         "type": "special",
         "material": [
-            "m939",
-            "m547",
-            "m540",
-            "m529"
+            "939",
+            "547",
+            "540",
+            "529"
         ],
+        "category": "helmets",
         "name": "Шлем Кнуда"
     },
     {
-        "id": 532,
+        "id": "532",
         "image": "/assets/img/items/m532.png",
         "type": "special",
         "material": [
-            "m038",
-            "m039",
-            "m515",
-            "m420"
+            "038",
+            "039",
+            "515",
+            "420"
         ],
+        "category": "helmets",
         "name": "Шлем Лейфа"
     },
     {
-        "id": 920,
+        "id": "920",
         "image": "/assets/img/items/m920.png",
         "type": "special",
         "material": [
-            "m049",
-            "m495",
-            "m258"
+            "049",
+            "495",
+            "258"
         ],
+        "category": "helmets",
         "name": "Шлем Олафа"
     },
     {
-        "id": 544,
+        "id": "544",
         "image": "/assets/img/items/m544.png",
         "type": "special",
         "material": [
-            "m057",
-            "m067",
-            "m460",
-            "m430"
+            "057",
+            "067",
+            "460",
+            "430"
         ],
+        "category": "helmets",
         "name": "Шлем Рагнара"
     },
     {
-        "id": 1561,
+        "id": "1561",
         "image": "/assets/img/items/m1561.png",
         "type": "special",
         "material": [
-            "m535",
-            "m532",
-            "m546",
-            "m526"
+            "535",
+            "532",
+            "546",
+            "526"
         ],
+        "category": "helmets",
         "name": "Шлем Реггвида"
     },
     {
-        "id": 1551,
+        "id": "1551",
         "image": "/assets/img/items/m1551.png",
         "type": "special",
         "material": [
-            "m529",
-            "m538",
-            "m928",
-            "m524"
+            "529",
+            "538",
+            "928",
+            "524"
         ],
+        "category": "helmets",
         "name": "Шлем Роллона"
     },
     {
-        "id": 1576,
+        "id": "1576",
         "image": "/assets/img/items/m1576.png",
         "type": "special",
         "material": [
-            "m528",
-            "m920",
-            "m525",
-            "m544"
+            "528",
+            "920",
+            "525",
+            "544"
         ],
+        "category": "helmets",
         "name": "Шлем Уббы"
     },
     {
-        "id": 938,
+        "id": "938",
         "image": "/assets/img/items/m938.png",
         "type": "special",
         "material": [
-            "m095",
-            "m490",
-            "m315"
+            "095",
+            "490",
+            "315"
         ],
+        "category": "helmets",
         "name": "Шлем Хакона"
     },
     {
-        "id": 528,
+        "id": "528",
         "image": "/assets/img/items/m528.png",
         "type": "special",
         "material": [
-            "m041",
-            "m514",
-            "m259"
+            "041",
+            "514",
+            "259"
         ],
+        "category": "helmets",
         "name": "Шлем Эйрика"
     },
     {
-        "id": 1437,
+        "id": "1437",
         "image": "/assets/img/items/m1437.png",
         "type": "shamans",
         "material": [
-            "m1330",
-            "m483",
-            "m381",
-            "m504"
+            "1330",
+            "483",
+            "381",
+            "504"
         ],
-        "name": "Браслет Созидателя"
+        "name": "Браслет Созидателя",
+        "category": "amulets"
     },
     {
-        "id": 1493,
+        "id": "1493",
         "image": "/assets/img/items/m1493.png",
         "type": "shamans",
         "material": [
-            "m1329",
-            "m475",
-            "m337",
-            "m458"
+            "1329",
+            "475",
+            "337",
+            "458"
         ],
-        "name": "Бронзовый Аграф"
+        "name": "Бронзовый Аграф",
+        "category": "amulets"
     },
     {
-        "id": 1439,
+        "id": "1439",
         "image": "/assets/img/items/m1439.png",
         "type": "shamans",
         "material": [
-            "m1331",
-            "m445",
-            "m340",
-            "m450"
+            "1331",
+            "445",
+            "340",
+            "450"
         ],
-        "name": "Бубен Наступления"
+        "name": "Бубен Наступления",
+        "category": "amulets"
     },
     {
-        "id": 1487,
+        "id": "1487",
         "image": "/assets/img/items/m1487.png",
         "type": "shamans",
         "material": [
-            "m1330",
-            "m514",
-            "m332",
-            "m452"
+            "1330",
+            "514",
+            "332",
+            "452"
         ],
-        "name": "Буковая Дубина"
+        "name": "Буковая Дубина",
+        "category": "weapons"
     },
     {
-        "id": 1495,
+        "id": "1495",
         "image": "/assets/img/items/m1495.png",
         "type": "shamans",
         "material": [
-            "m1423",
-            "m451",
-            "m368",
-            "m440"
+            "1423",
+            "451",
+            "368",
+            "440"
         ],
-        "name": "Витой Посох"
+        "name": "Витой Посох",
+        "category": "weapons"
     },
     {
-        "id": 1486,
+        "id": "1486",
         "image": "/assets/img/items/m1486.png",
         "type": "shamans",
         "material": [
-            "m1326",
-            "m445",
-            "m337",
-            "m449"
+            "1326",
+            "445",
+            "337",
+            "449"
         ],
+        "category": "boots",
         "name": "Войлочные Сапоги"
     },
     {
-        "id": 1488,
+        "id": "1488",
         "image": "/assets/img/items/m1488.png",
         "type": "shamans",
         "material": [
-            "m1327",
-            "m482",
-            "m383",
-            "m439"
+            "1327",
+            "482",
+            "383",
+            "439"
         ],
-        "name": "Глиняная Фигурка"
+        "name": "Глиняная Фигурка",
+        "category": "amulets"
     },
     {
-        "id": 1331,
+        "id": "1331",
         "image": "/assets/img/items/m1331.png",
         "type": "shamans",
         "material": [
-            "m462",
-            "m488",
-            "m485",
-            "m356"
+            "462",
+            "488",
+            "485",
+            "356"
         ],
+        "category": "weapons",
         "name": "Жезл Мудрости"
     },
     {
-        "id": 1432,
+        "id": "1432",
         "image": "/assets/img/items/m1432.png",
         "type": "shamans",
         "material": [
-            "m1326",
-            "m456",
-            "m365",
-            "m511"
+            "1326",
+            "456",
+            "365",
+            "511"
         ],
+        "category": "weapons",
         "name": "Жезл Судьбы"
     },
     {
-        "id": 1478,
+        "id": "1478",
         "image": "/assets/img/items/m1478.png",
         "type": "shamans",
         "material": [
-            "m1424",
-            "m497",
-            "m372",
-            "m515"
+            "1424",
+            "497",
+            "372",
+            "515"
         ],
+        "category": "weapons",
         "name": "Жертвенный Нож"
     },
     {
-        "id": 1492,
+        "id": "1492",
         "image": "/assets/img/items/m1492.png",
         "type": "shamans",
         "material": [
-            "m1423",
-            "m459",
-            "m371",
-            "m475"
+            "1423",
+            "459",
+            "371",
+            "475"
         ],
+        "category": "weapons",
         "name": "Змеиный Посох"
     },
     {
-        "id": 1490,
+        "id": "1490",
         "image": "/assets/img/items/m1490.png",
         "type": "shamans",
         "material": [
-            "m1328",
-            "m456",
-            "m347",
-            "m489"
+            "1328",
+            "456",
+            "347",
+            "489"
         ],
-        "name": "Золотой Кафф"
+        "name": "Золотой Кафф",
+        "category": "amulets"
     },
     {
-        "id": 1430,
+        "id": "1430",
         "image": "/assets/img/items/m1430.png",
         "type": "shamans",
         "material": [
-            "m477",
-            "m342",
-            "m465",
-            "m1424"
+            "477",
+            "342",
+            "465",
+            "1424"
         ],
+        "category": "helmets",
         "name": "Капюшон Истины"
     },
     {
-        "id": 1429,
+        "id": "1429",
         "image": "/assets/img/items/m1429.png",
         "type": "shamans",
         "material": [
-            "m1424",
-            "m470",
-            "m374",
-            "m453"
+            "1424",
+            "470",
+            "374",
+            "453"
         ],
+        "category": "weapons",
         "name": "Кинжал Отваги"
     },
     {
-        "id": 1474,
+        "id": "1474",
         "image": "/assets/img/items/m1474.png",
         "type": "shamans",
         "material": [
-            "m1328",
-            "m509",
-            "m368",
-            "m449"
+            "1328",
+            "509",
+            "368",
+            "449"
         ],
-        "name": "Клепаные Поножи"
+        "name": "Клепаные Поножи",
+        "category": "boots"
     },
     {
-        "id": 1475,
+        "id": "1475",
         "image": "/assets/img/items/m1475.png",
         "type": "shamans",
         "material": [
-            "m1330",
-            "m491",
-            "m364",
-            "m514"
+            "1330",
+            "491",
+            "364",
+            "514"
         ],
-        "name": "Костяная Игла"
+        "name": "Костяная Игла",
+        "category": "weapons"
     },
     {
-        "id": 1481,
+        "id": "1481",
         "image": "/assets/img/items/m1481.png",
         "type": "shamans",
         "material": [
-            "m1333",
-            "m447",
-            "m346",
-            "m484"
+            "1333",
+            "447",
+            "346",
+            "484"
         ],
-        "name": "Лик Страха"
+        "name": "Лик Страха",
+        "category": "helmets"
     },
     {
-        "id": 1480,
+        "id": "1480",
         "image": "/assets/img/items/m1480.png",
         "type": "shamans",
         "material": [
-            "m1326",
-            "m478",
-            "m343",
-            "m513"
+            "1326",
+            "478",
+            "343",
+            "513"
         ],
-        "name": "Лоскутная Куртка"
+        "name": "Лоскутная Куртка",
+        "category": "armor"
     },
     {
-        "id": 1427,
+        "id": "1427",
         "image": "/assets/img/items/m1427.png",
         "type": "shamans",
         "material": [
-            "m1328",
-            "m481",
-            "m362",
-            "m486"
+            "1328",
+            "481",
+            "362",
+            "486"
         ],
+        "category": "helmets",
         "name": "Маска Бесстрашия"
     },
     {
-        "id": 1330,
+        "id": "1330",
         "image": "/assets/img/items/m1330.png",
         "type": "shamans",
         "material": [
-            "m473",
-            "m508",
-            "m467",
-            "m432"
+            "473",
+            "508",
+            "467",
+            "432"
         ],
+        "category": "helmets",
         "name": "Маска Доблести"
     },
     {
-        "id": 1472,
+        "id": "1472",
         "image": "/assets/img/items/m1472.png",
         "type": "shamans",
         "material": [
-            "m1329",
-            "m484",
-            "m363",
-            "m450"
+            "1329",
+            "484",
+            "363",
+            "450"
         ],
+        "category": "helmets",
         "name": "Маска Друида"
     },
     {
-        "id": 1327,
+        "id": "1327",
         "image": "/assets/img/items/m1327.png",
         "type": "shamans",
         "material": [
-            "m517",
-            "m483",
-            "m503",
-            "m436"
+            "517",
+            "483",
+            "503",
+            "436"
         ],
+        "category": "helmets",
         "name": "Маска Силы"
     },
     {
-        "id": 1436,
+        "id": "1436",
         "image": "/assets/img/items/m1436.png",
         "type": "shamans",
         "material": [
-            "m1332",
-            "m471",
-            "m375",
-            "m461"
+            "1332",
+            "471",
+            "375",
+            "461"
         ],
-        "name": "Медальон Просвещения"
+        "name": "Медальон Просвещения",
+        "category": "amulets"
     },
     {
-        "id": 1431,
+        "id": "1431",
         "image": "/assets/img/items/m1431.png",
         "type": "shamans",
         "material": [
-            "m1423",
-            "m448",
-            "m382",
-            "m447"
+            "1423",
+            "448",
+            "382",
+            "447"
         ],
-        "name": "Медальон Скитальца"
+        "name": "Медальон Скитальца",
+        "category": "amulets"
     },
     {
-        "id": 1489,
+        "id": "1489",
         "image": "/assets/img/items/m1489.png",
         "type": "shamans",
         "material": [
-            "m1331",
-            "m464",
-            "m334",
-            "m453"
+            "1331",
+            "464",
+            "334",
+            "453"
         ],
-        "name": "Набивная Туника"
+        "name": "Набивная Туника",
+        "category": "armor"
     },
     {
-        "id": 1426,
+        "id": "1426",
         "image": "/assets/img/items/m1426.png",
         "type": "shamans",
         "material": [
-            "m1327",
-            "m476",
-            "m387",
-            "m472"
+            "1327",
+            "476",
+            "387",
+            "472"
         ],
-        "name": "Накидка Аскета"
+        "name": "Накидка Аскета",
+        "category": "armor"
     },
     {
-        "id": 1423,
+        "id": "1423",
         "image": "/assets/img/items/m1423.png",
         "type": "shamans",
         "material": [
-            "m490",
-            "m494",
-            "m369",
-            "m466"
+            "490",
+            "494",
+            "369",
+            "466"
         ],
-        "name": "Наплечи Гнева"
+        "name": "Наплечи Гнева",
+        "category": "armor"
     },
     {
-        "id": 1476,
+        "id": "1476",
         "image": "/assets/img/items/m1476.png",
         "type": "shamans",
         "material": [
-            "m1423",
-            "m506",
-            "m367",
-            "m500"
+            "1423",
+            "506",
+            "367",
+            "500"
         ],
-        "name": "Наплечные Пластины"
+        "name": "Наплечные Пластины",
+        "category": "armor"
     },
     {
-        "id": 1433,
+        "id": "1433",
         "image": "/assets/img/items/m1433.png",
         "type": "shamans",
         "material": [
-            "m1329",
-            "m461",
-            "m339",
-            "m499"
+            "1329",
+            "461",
+            "339",
+            "499"
         ],
-        "name": "Облачение Мыслителя"
+        "name": "Облачение Мыслителя",
+        "category": "armor"
     },
     {
-        "id": 1479,
+        "id": "1479",
         "image": "/assets/img/items/m1479.png",
         "type": "shamans",
         "material": [
-            "m1332",
-            "m458",
-            "m373",
-            "m444"
+            "1332",
+            "458",
+            "373",
+            "444"
         ],
+        "category": "helmets",
         "name": "Обрядовая Маска"
     },
     {
-        "id": 1484,
+        "id": "1484",
         "image": "/assets/img/items/m1484.png",
         "type": "shamans",
         "material": [
-            "m1331",
-            "m495",
-            "m433",
-            "m449"
+            "1331",
+            "495",
+            "433",
+            "449"
         ],
-        "name": "Оленьи Унты"
+        "name": "Оленьи Унты",
+        "category": "boots"
     },
     {
-        "id": 1482,
+        "id": "1482",
         "image": "/assets/img/items/m1482.png",
         "type": "shamans",
         "material": [
-            "m1423",
-            "m511",
-            "m376",
-            "m476"
+            "1423",
+            "511",
+            "376",
+            "476"
         ],
-        "name": "Отравленный Дротик"
+        "name": "Отравленный Дротик",
+        "category": "weapons"
     },
     {
-        "id": 1473,
+        "id": "1473",
         "image": "/assets/img/items/m1473.png",
         "type": "shamans",
         "material": [
-            "m1327",
-            "m510",
-            "m350",
-            "m492"
+            "1327",
+            "510",
+            "350",
+            "492"
         ],
+        "category": "boots",
         "name": "Охотничьи Башмаки"
     },
     {
-        "id": 1329,
+        "id": "1329",
         "image": "/assets/img/items/m1329.png",
         "type": "shamans",
         "material": [
-            "m516",
-            "m443",
-            "m469",
-            "m333"
+            "516",
+            "443",
+            "469",
+            "333"
         ],
-        "name": "Плащ Хищника"
+        "name": "Плащ Хищника",
+        "category": "armor"
     },
     {
-        "id": 1485,
+        "id": "1485",
         "image": "/assets/img/items/m1485.png",
         "type": "shamans",
         "material": [
-            "m1333",
-            "m509",
-            "m349",
-            "m470"
+            "1333",
+            "509",
+            "349",
+            "470"
         ],
-        "name": "Подвеска Хугина"
+        "name": "Подвеска Хугина",
+        "category": "amulets"
     },
     {
-        "id": 1328,
+        "id": "1328",
         "image": "/assets/img/items/m1328.png",
         "type": "shamans",
         "material": [
-            "m480",
-            "m474",
-            "m468",
-            "m425"
+            "480",
+            "474",
+            "468",
+            "425"
         ],
-        "name": "Посох Величия"
+        "name": "Посох Величия",
+        "category": "weapons"
     },
     {
-        "id": 1425,
+        "id": "1425",
         "image": "/assets/img/items/m1425.png",
         "type": "shamans",
         "material": [
-            "m1326",
-            "m459",
-            "m385",
-            "m512"
+            "1326",
+            "459",
+            "385",
+            "512"
         ],
-        "name": "Посох Мужества"
+        "name": "Посох Мужества",
+        "category": "weapons"
     },
     {
-        "id": 1434,
+        "id": "1434",
         "image": "/assets/img/items/m1434.png",
         "type": "shamans",
         "material": [
-            "m1328",
-            "m457",
-            "m338",
-            "m489"
+            "1328",
+            "457",
+            "338",
+            "489"
         ],
-        "name": "Регалии Властителя"
+        "name": "Регалии Властителя",
+        "category": "helmets"
     },
     {
-        "id": 1333,
+        "id": "1333",
         "image": "/assets/img/items/m1333.png",
         "type": "shamans",
         "material": [
-            "m501",
-            "m479",
-            "m442",
-            "m434"
+            "501",
+            "479",
+            "442",
+            "434"
         ],
-        "name": "Ритуальное Кольцо"
+        "name": "Ритуальное Кольцо",
+        "category": "amulets"
     },
     {
-        "id": 1435,
+        "id": "1435",
         "image": "/assets/img/items/m1435.png",
         "type": "shamans",
         "material": [
-            "m1327",
-            "m435",
-            "m475",
-            "m463"
+            "1327",
+            "435",
+            "475",
+            "463"
         ],
-        "name": "Сандалии Жреца"
+        "name": "Сандалии Жреца",
+        "category": "boots"
     },
     {
-        "id": 1428,
+        "id": "1428",
         "image": "/assets/img/items/m1428.png",
         "type": "shamans",
         "material": [
-            "m1423",
-            "m463",
-            "m378",
-            "m513"
+            "1423",
+            "463",
+            "378",
+            "513"
         ],
+        "category": "boots",
         "name": "Сапоги Мстителя"
     },
     {
-        "id": 1438,
+        "id": "1438",
         "image": "/assets/img/items/m1438.png",
         "type": "shamans",
         "material": [
-            "m1333",
-            "m441",
-            "m386",
-            "m444"
+            "1333",
+            "441",
+            "386",
+            "444"
         ],
+        "category": "boots",
         "name": "Сапоги Наставника"
     },
     {
-        "id": 1332,
+        "id": "1332",
         "image": "/assets/img/items/m1332.png",
         "type": "shamans",
         "material": [
-            "m454",
-            "m505",
-            "m496",
-            "m377"
+            "454",
+            "505",
+            "496",
+            "377"
         ],
+        "category": "boots",
         "name": "Сапоги Путника"
     },
     {
-        "id": 1424,
+        "id": "1424",
         "image": "/assets/img/items/m1424.png",
         "type": "shamans",
         "material": [
-            "m478",
-            "m460",
-            "m384",
-            "m446"
+            "478",
+            "460",
+            "384",
+            "446"
         ],
+        "category": "boots",
         "name": "Сапоги Сокрушителя"
     },
     {
-        "id": 1326,
+        "id": "1326",
         "image": "/assets/img/items/m1326.png",
         "type": "shamans",
         "material": [
-            "m455",
-            "m498",
-            "m493",
-            "m437"
+            "455",
+            "498",
+            "493",
+            "437"
         ],
+        "category": "armor",
         "name": "Таинственная Мантия"
     },
     {
-        "id": 1491,
+        "id": "1491",
         "image": "/assets/img/items/m1491.png",
         "type": "shamans",
         "material": [
-            "m1332",
-            "m458",
-            "m366",
-            "m448"
+            "1332",
+            "458",
+            "366",
+            "448"
         ],
+        "category": "helmets",
         "name": "Узорчатая Маска"
     },
     {
-        "id": 1494,
+        "id": "1494",
         "image": "/assets/img/items/m1494.png",
         "type": "shamans",
         "material": [
-            "m1424",
-            "m491",
-            "m363",
-            "m470"
+            "1424",
+            "491",
+            "363",
+            "470"
         ],
+        "category": "helmets",
         "name": "Черненая Маска"
     },
     {
-        "id": 1483,
+        "id": "1483",
         "image": "/assets/img/items/m1483.png",
         "type": "shamans",
         "material": [
-            "m1329",
-            "m510",
-            "m345",
-            "m461"
+            "1329",
+            "510",
+            "345",
+            "461"
         ],
-        "name": "Шерстяная Пенула"
+        "name": "Шерстяная Пенула",
+        "category": "armor"
     },
     {
-        "id": 1477,
+        "id": "1477",
         "image": "/assets/img/items/m1477.png",
         "type": "shamans",
         "material": [
-            "m1331",
-            "m464",
-            "m348",
-            "m446"
+            "1331",
+            "464",
+            "348",
+            "446"
         ],
+        "category": "boots",
         "name": "Шнурованные Сапоги"
     }
 ]
-

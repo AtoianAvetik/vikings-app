@@ -7,7 +7,8 @@ import { Ng2SmartTableModule } from 'ng2-smart-table';
 import { EquipmentsComponent } from './equipments.component';
 import { EquipmentCreateComponent } from './equipment-create/equipment-create.component';
 import { EquipmentItemComponent } from './equipment-item/equipment-item.component';
-import { EquipmentsService } from './_services/equipments.service';
+import { MatTabsModule } from '@angular/material';
+import { MatTooltipModule } from '@angular/material/tooltip';
 
 @NgModule({
     imports: [
@@ -15,7 +16,9 @@ import { EquipmentsService } from './_services/equipments.service';
         SharedModule,
         ReactiveFormsModule,
         EquipmentsRoutingModule,
-        Ng2SmartTableModule
+        Ng2SmartTableModule,
+        MatTabsModule,
+        MatTooltipModule
     ],
     declarations: [
         EquipmentsComponent,
@@ -23,7 +26,6 @@ import { EquipmentsService } from './_services/equipments.service';
         EquipmentItemComponent
     ],
     providers: [
-        EquipmentsService
     ]
 })
 export class EquipmentsModule {

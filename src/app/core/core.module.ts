@@ -6,6 +6,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { BackofficeLayoutModule } from '../backoffice-layout/backoffice-layout.module';
 import { PageLayoutModule } from '../page-layout/page-layout.module';
 import { ApiService } from './_services/api.service';
+import { DataService } from './_services/data.service';
 
 
 @NgModule({
@@ -22,6 +23,7 @@ import { ApiService } from './_services/api.service';
     declarations: [],
     providers: [
         ApiService,
+        DataService
     ]
 })
 

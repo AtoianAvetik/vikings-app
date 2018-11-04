@@ -1,11 +1,17 @@
-<div class="equipment-item">
-    <div class="equipment-item_name">
-        {{ item.name }}
+<div class="equipment-item card">
+    <div class="equipment-item_header equipment-item_block">
+        <div class="equipment-item_name">
+            {{ item.name }}
+        </div>
     </div>
-    <div class="equipment-item_image">
-        <img src="{{ item.image }}" alt="">
-    </div>
-    <div class="equipment-item_info">
-
+    <div class="equipment-item_body">
+        <div class="equipment-item_image equipment-item_block">
+            <img src="{{ item.image }}" alt="">
+        </div>
+        <div class="equipment-item_info equipment-item_block">
+            <div class="equipment-item_material" *ngFor="let material of item.material">
+                <img src="{{ allItems[material] && allItems[material].image }}" matTooltip="{{ allItems[material] && allItems[material].name }}">
+            </div>
+        </div>
     </div>
 </div>

@@ -7,6 +7,7 @@ import { Component, Input, OnInit } from '@angular/core';
 })
 export class EquipmentItemComponent implements OnInit {
     @Input('item') item;
+    @Input('allItems') allItems = [];
 
     constructor() {
     }

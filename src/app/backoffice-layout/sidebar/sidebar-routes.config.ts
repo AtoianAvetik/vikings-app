@@ -12,8 +12,8 @@ export const ROUTES: RouteInfo[] = [
         submenu: []
     },
     {
-        path: '/clothes',
-        title: 'Clothes',
+        path: '/equipments',
+        title: 'Equipments',
         icon: 'ft-users',
         class: 'has-sub',
         badge: '',
@@ -21,8 +21,8 @@ export const ROUTES: RouteInfo[] = [
         isExternalLink: false,
         submenu: [
             {
-                path: '/clothes/create',
-                title: 'Create clothes ',
+                path: '/equipments/create',
+                title: 'Create equipment ',
                 icon: '',
                 class: '',
                 badge: '',

@@ -1,2 +1,14 @@
-<app-equipment-item *ngFor="let equipment of equipments" [item]="equipment">
-</app-equipment-item>
+<section class="app-equipments">
+    <mat-tab-group>
+        <mat-tab *ngFor="let category of categories" label="{{ category.name }}">
+            <div class="row">
+                <ng-container *ngFor="let equipment of equipments">
+                    <div class="col-3" *ngIf="equipment.category === category.id">
+                        <app-equipment-item [item]="equipment" [allItems]="allItems">
+                        </app-equipment-item>
+                    </div>
+                </ng-container>
+            </div>
+        </mat-tab>
+    </mat-tab-group>
+</section>
