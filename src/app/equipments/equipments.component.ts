@@ -12,29 +12,47 @@ export class EquipmentsComponent implements OnInit {
     categories = [
         {
             id: 'helmets',
-            name: 'Шлемы',
+            text: 'Шлемы',
             image: '/'
         },
         {
             id: 'armor',
-            name: 'Броня',
+            text: 'Броня',
             image: '/'
         },
         {
             id: 'weapons',
-            name: 'Оружие',
+            text: 'Оружие',
             image: '/'
         },
         {
             id: 'boots',
-            name: 'Обувь',
+            text: 'Обувь',
             image: '/'
         },
         {
             id: 'amulets',
-            name: 'Амулеты',
+            text: 'Амулеты',
             image: '/'
         },
+    ];
+    types = [
+        {
+            id: 'standard',
+            text: 'Стандартные'
+        },
+        {
+            id: 'invader',
+            text: 'Захватчик'
+        },
+        {
+            id: 'special',
+            text: 'Специальные'
+        },
+        {
+            id: 'shamans',
+            text: 'Шаманы'
+        }
     ];
 
     constructor(private $data: DataService) {

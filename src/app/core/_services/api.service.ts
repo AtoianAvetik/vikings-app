@@ -23,10 +23,13 @@ export class ApiService {
 
     }
 
-    getJson(path) {
-        return this.http.get(`${path}`).pipe(
-            catchError(err => this.handleErrors(err))
-        ).toPromise();
+    setOptionWithParams(params, responseType?) {
+        return {
+            headers: this.headers,
+            responseType: responseType || 'json',
+            params: Object.getOwnPropertyNames(params)
+                .reduce((p, key) => p.set(key, params[key]), new HttpParams())
+        };
     }
 
     post(path, data) {
@@ -35,8 +38,10 @@ export class ApiService {
         ).toPromise();
     }
 
-    get(path) {
-        return this.http.get(`${this.url + path}`).pipe(
+    get(path, params?, responseType?, absolute: boolean = false) {
+        const options = params ? this.setOptionWithParams(params, responseType) : this.options;
+
+        return this.http.get(`${(!absolute ? this.url : '' ) + path}`, options).pipe(
             catchError(err => this.handleErrors(err))
         ).toPromise();
     }
@@ -60,6 +65,7 @@ export class ApiService {
     }
 
     handleErrors(err) {
+        console.log(err);
         switch (err.status) {
             case 400: {
                 break;

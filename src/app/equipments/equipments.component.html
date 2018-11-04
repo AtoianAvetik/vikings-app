@@ -1,6 +1,6 @@
 <section class="app-equipments">
     <mat-tab-group>
-        <mat-tab *ngFor="let category of categories" label="{{ category.name }}">
+        <mat-tab *ngFor="let category of categories" label="{{ category.text }}">
             <div class="row">
                 <ng-container *ngFor="let equipment of equipments">
                     <div class="col-3" *ngIf="equipment.category === category.id">

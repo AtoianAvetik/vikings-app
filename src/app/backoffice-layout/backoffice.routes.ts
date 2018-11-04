@@ -6,7 +6,7 @@ export const BackofficeRoutes: Routes = [
         loadChildren: 'app/dashboard/dashboard.module#DashboardModule'
     },
     {
-        path: 'clothes',
+        path: 'equipments',
         loadChildren: 'app/equipments/equipments.module#EquipmentsModule',
     }
 ];
